@@ -1,0 +1,4 @@
+Straße: Gerbestrasse
+Hausnummer: 15
+Postleitzahl: 3072
+Stadt: Ostermundigen
