@@ -10,6 +10,11 @@ conn = sqlite3.connect('project_addresses.db')
 cursor = conn.cursor()
 
 # Erstellen der Tabelle, falls sie noch nicht existiert
+
+# Datenbank zurücksetzen
+# cursor.execute('DROP TABLE IF EXISTS project_addresses')
+
+# Erstellen der Tabelle, falls sie noch nicht existiert
 cursor.execute('''
     CREATE TABLE IF NOT EXISTS project_addresses (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -29,9 +34,20 @@ for file_name in os.listdir(xml_folder):
         tree = ET.parse(xml_file)
         root = tree.getroot()
 
-        # Suche nach "projectAddress"
-        address_element = root.find('.//element[key="projectAddress"]/address')
+        # Suche nach Adressdaten in beiden Beispielen
+        address_element = None
 
+        # Beispiel 1: Suche nach der Adresse in projectAddress
+        project_address = root.find('.//element[key="projectAddress"]/address')
+        if project_address is not None:
+            address_element = project_address
+        else:
+            # Beispiel 2: Suche nach der Adresse im projectLocation
+            project_location = root.find('.//projectLocation/address')
+            if project_location is not None:
+                address_element = project_location
+
+        # Extrahieren der Adressdaten, falls address_element gefunden wurde
         if address_element is not None:
             street = address_element.find('street').text if address_element.find('street') is not None else None
             house_number = address_element.find('houseNumber').text if address_element.find('houseNumber') is not None else None
