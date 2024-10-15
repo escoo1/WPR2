@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import sqlite3
 
 # Pfad zum Ordner mit den XML-Dateien
-xml_folder = 'C:\\Users\\olive\\git\\WPR2\\xmlDocuments\\'
+xml_folder = 'C:\\Users\\olive\\git\\WPR2\\TestXmlDocuments\\'
 
 # Verbindung zur SQLite-Datenbank (erstellt eine neue Datei, wenn sie nicht existiert)
 conn = sqlite3.connect('project_addresses.db')
