@@ -47,12 +47,12 @@ for file_name in os.listdir(xml_folder):
             # Suche nach Adressdaten in beiden Beispielen
             address_element = None
 
-            # Beispiel 1: Suche nach der Adresse in projectAddress
+            # Suche nach der Adresse in projectAddress
             project_address = root.find('.//element[key="projectAddress"]/address')
             if project_address is not None:
                 address_element = project_address
             else:
-                # Beispiel 2: Suche nach der Adresse im projectLocation
+                # Suche nach der Adresse im projectLocation
                 project_location = root.find('.//projectLocation/address')
                 if project_location is not None:
                     address_element = project_location
@@ -105,7 +105,7 @@ for file_name in os.listdir(xml_folder):
         except Exception as e:
             print(f"Ein Fehler ist aufgetreten: {str(e)}")
 
-# Änderungen speichern und Verbindung zur Datenbank schließen
+# Änderungen speichern und Verbindung zur Datenbank schliessen
 conn.commit()
 conn.close()
 
