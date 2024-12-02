@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_cc29d1220609edb319618fde807aa59c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_cc29d1220609edb319618fde807aa59c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_cc29d1220609edb319618fde807aa59c = L.map(
+                "map_cc29d1220609edb319618fde807aa59c",
+                {
+                    center: [46.9608586, 7.511622],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_71c893622d26cae2bb56802223836274 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_71c893622d26cae2bb56802223836274.addTo(map_cc29d1220609edb319618fde807aa59c);
+        
+    
+            var marker_ba4d1fb24ba11b7acf2322a98ad6fcbf = L.marker(
+                [46.9608586, 7.511622],
+                {}
+            ).addTo(map_cc29d1220609edb319618fde807aa59c);
+        
+    
+            var icon_bc719278155a8bf9efa9b9c6fd15b450 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ba4d1fb24ba11b7acf2322a98ad6fcbf.setIcon(icon_bc719278155a8bf9efa9b9c6fd15b450);
+        
+    
+        var popup_6126a76ce8956bab99ea179dd23170d0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e08f53969be9322658ced4dd79e2c88c = $(`<div id="html_e08f53969be9322658ced4dd79e2c88c" style="width: 100.0%; height: 100.0%;">Schwandiweg 17A, 3072 Ostermundigen</div>`)[0];
+                popup_6126a76ce8956bab99ea179dd23170d0.setContent(html_e08f53969be9322658ced4dd79e2c88c);
+            
+        
+
+        marker_ba4d1fb24ba11b7acf2322a98ad6fcbf.bindPopup(popup_6126a76ce8956bab99ea179dd23170d0)
+        ;
+
+        
+    
+    
+            var marker_d2e04ef77711b5ac1e67def6b0243531 = L.marker(
+                [46.95291935, 7.483697404268538],
+                {}
+            ).addTo(map_cc29d1220609edb319618fde807aa59c);
+        
+    
+            var icon_37f8cbe8e37e6655e31d36ab67a4ad10 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d2e04ef77711b5ac1e67def6b0243531.setIcon(icon_37f8cbe8e37e6655e31d36ab67a4ad10);
+        
+    
+        var popup_44d38f170f999935116867613705e7e6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ccfdb2a2836b7c87d5699bcd575dc2a7 = $(`<div id="html_ccfdb2a2836b7c87d5699bcd575dc2a7" style="width: 100.0%; height: 100.0%;">Gerbestrasse 15, 3072 Ostermundigen</div>`)[0];
+                popup_44d38f170f999935116867613705e7e6.setContent(html_ccfdb2a2836b7c87d5699bcd575dc2a7);
+            
+        
+
+        marker_d2e04ef77711b5ac1e67def6b0243531.bindPopup(popup_44d38f170f999935116867613705e7e6)
+        ;
+
+        
+    
+</script>
+</html>
