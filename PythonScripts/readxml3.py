@@ -3,12 +3,29 @@ import xml.etree.ElementTree as ET
 import sqlite3
 import shutil
 
-# Pfad zum Ordner mit den XML-Dateien
-xml_folder = 'C:\\Users\\olive\\git\\WPR2\\TestXmlDocuments\\'
+# Funktion, um die entsprechenden Ordnerpfade zu bestimmen
+def determine_folders():
+    # Mögliche Pfade für den Benutzer 'olive'
+    olive_xml_folder = 'C:\\Users\\olive\\git\\WPR2\\TestXmlDocuments\\'
+    olive_processed_folder = 'C:\\Users\\olive\\git\\WPR2\\ProcessedXmlFolder\\'
+    
+    # Mögliche Pfade für den Benutzer 'lenobach'
+    lenobach_xml_folder = '/Users/lenobach/git/WPR2/TestXmlDocuments'
+    lenobach_processed_folder = '/Users/lenobach/git/WPR2/TestXmlDocuments'
 
-# Ordner für bereits verarbeitete XML-Dateien
-processed_folder = 'C:\\Users\\olive\\git\\WPR2\\ProcessedXmlFolder\\'
+    # Überprüfen, ob die Pfade von 'olive' existieren
+    if os.path.exists(olive_xml_folder) and os.path.exists(olive_processed_folder):
+        return olive_xml_folder, olive_processed_folder
 
+    # Überprüfen, ob die Pfade von 'lenobach' existieren
+    if os.path.exists(lenobach_xml_folder) and os.path.exists(lenobach_processed_folder):
+        return lenobach_xml_folder, lenobach_processed_folder
+
+    # Falls keine der Pfade existieren, einen Fehler auslösen
+    raise FileNotFoundError("Neither 'olive' nor 'lenobach' folder paths exist.")
+
+# Dynamisch die Ordnerpfade abrufen
+xml_folder, processed_folder = determine_folders()
 
 # Verbindung zur SQLite-Datenbank (erstellt eine neue Datei, wenn sie nicht existiert)
 conn = sqlite3.connect('project_addresses.db')
