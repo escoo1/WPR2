@@ -6,12 +6,12 @@ import shutil
 # Funktion, um die entsprechenden Ordnerpfade zu bestimmen
 def determine_folders():
     # Mögliche Pfade für den Benutzer 'olive'
-    olive_xml_folder = 'C:\\Users\\olive\\git\\WPR2\\TestXmlDocuments\\'
-    olive_processed_folder = 'C:\\Users\\olive\\git\\WPR2\\ProcessedXmlFolder\\'
+    olive_xml_folder = 'C:\\Users\\olive\\git\\WPR2\\downloaded_xml_files\\'
+    olive_processed_folder = 'C:\\Users\\olive\\git\\WPR2\\downloaded_xml_files\\'
     
     # Mögliche Pfade für den Benutzer 'lenobach'
-    lenobach_xml_folder = '/Users/lenobach/git/WPR2/TestXmlDocuments'
-    lenobach_processed_folder = '/Users/lenobach/git/WPR2/TestXmlDocuments'
+    lenobach_xml_folder = '/Users/lenobach/git/WPR2/downloaded_xml_files'
+    lenobach_processed_folder = '/Users/lenobach/git/WPR2/downloaded_xml_files'
 
     # Überprüfen, ob die Pfade von 'olive' existieren
     if os.path.exists(olive_xml_folder) and os.path.exists(olive_processed_folder):
