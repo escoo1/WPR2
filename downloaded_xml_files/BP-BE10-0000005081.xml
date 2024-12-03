@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.20/BP-BE10-export.xsd">
+<meta>
+  <id>4dd2d3cf-57c7-48a5-912d-cb6be633d256</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>70da2714-5d3b-11ea-b804-0050569de354</id>
+    <displayName>Einwohnergemeinde Muri bei Bern - Bauverwaltung</displayName>
+    <street>Bahnhofstrasse</street>
+    <streetNumber>4</streetNumber>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005081</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-04-17</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: 3073 Gümligen</de>
+    <en>Bauprojekt: Gümligen</en>
+    <it>Bauprojekt: Gümligen</it>
+    <fr>Demande de permis de construire: 3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>company</selectType>
+      <multi>
+        <companies>
+          <noUID>true</noUID>
+          <company>
+            <name>migrolino AG</name>
+            <customAddress>Wynenfeld
+5034 Suhr</customAddress>
+            <legalForm>0105</legalForm>
+          </company>
+        </companies>
+      </multi>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>delegationBuildingContractor</selectType>
+  </projectFramer>
+  <informationMunicipality>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+  </informationMunicipality>
+  <projectDescription>Umbau des bestehenden Avec-Shops zu migrolino sowie Austausch der avec durch migrolino Leuchtreklamen.</projectDescription>
+  <projectLocation>
+    <address>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Bahnhofstrasse 21</locationCoordinate>
+  <useZoneSuperstructureRegulations>Bahnhofareal</useZoneSuperstructureRegulations>
+  <zoneMesureProtectionEaux>&lt;p>Au&lt;/p></zoneMesureProtectionEaux>
+  <locationCirculationOffice>Bauverwaltung Muri
+Bahnhofstrasse 4
+3073 Gümligen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel innerhalb der Auflagefrist einzureichen, ebenfalls allfällige Begehren um Lastenausgleich. Lastenausgleichsansprüche, die nicht innert der Einsprachefrist eingereicht werden , verwirken.&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-05-17</entryDeadline>
+  <registrationOffice>Bauverwaltung Muri
+Bahnhofstrasse 4
+3073 Gümligen</registrationOffice>
+  <remarks>Es wird auf die Gesuchsakten verwiesen. Die Auflageakten können auch elektronisch eingesehen werden: www.portal.ebau.be.ch; eBau Nummer 2023-22932/ 193424.</remarks>
+</content>
+</BP-BE10:publication>

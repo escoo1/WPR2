@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.22/BP-BE10-export.xsd">
+<meta>
+  <id>870c23d3-e666-420a-8750-e5d33c7d8515</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>70da2714-5d3b-11ea-b804-0050569de354</id>
+    <displayName>Einwohnergemeinde Muri bei Bern - Bauverwaltung</displayName>
+    <street>Bahnhofstrasse</street>
+    <streetNumber>4</streetNumber>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005839</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-10-23</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Füllerichstrasse 45+45a, 3073 Gümligen3073 Gümligen</de>
+    <en>Bauprojekt: Füllerichstrasse 45+45a, GümligenGümligen</en>
+    <it>Bauprojekt: Füllerichstrasse 45+45a, GümligenGümligen</it>
+    <fr>Demande de permis de construire: Füllerichstrasse 45+45a, 3073 Gümligen3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Marcel + Mélanie</prename>
+          <name>Merz-Froidevaux</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Füllerichstrasse</street>
+            <houseNumber>45</houseNumber>
+            <swissZipCode>3073</swissZipCode>
+            <town>Gümligen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>false</noUID>
+        <company>
+          <name>GLAUS STÄMPFLI GmbH</name>
+          <uid>CHE-345.688.167</uid>
+          <uidOrganisationId>345688167</uidOrganisationId>
+          <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+          <legalForm>0107</legalForm>
+          <address>
+            <street>Herzogstrasse</street>
+            <houseNumber>14</houseNumber>
+            <swissZipCode>3014</swissZipCode>
+            <town>Bern</town>
+          </address>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Erweiterung und Umbau des bestehenden Wohnhauses und Neubau von einem Carport.</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Füllerichstrasse</street>
+      <houseNumber>45+45a</houseNumber>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+    <address>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle GB Nr. 1906</locationCoordinate>
+  <useZoneSuperstructureRegulations>WG2</useZoneSuperstructureRegulations>
+  <locationCirculationOffice>Bauinspektorat Muri, Bahnhofstrasse 4, 3073 Gümligen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel innerhalb der Auflagefrist einzureichen, ebenfalls allfällige Begehren um Lastenausgleich. Lastenausgleichsansprüche, die nicht innert der Einsprachefrist eingereicht werden, verwirken.&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-11-22</entryDeadline>
+  <registrationOffice>Bauinspektorat Muri, Bahnhofstrasse 4, 3073 Gümligen</registrationOffice>
+  <remarks>Es wird auf die Gesuchsakten und die aufgestellten Profile verwiesen. Die Auflageakten können auch elektronisch eingesehen werden: www.portal.ebau.apps.be.ch; eBau Nummer 2024-16946 / 205780.</remarks>
+</content>
+</BP-BE10:publication>

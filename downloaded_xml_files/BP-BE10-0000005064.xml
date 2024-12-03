@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.20/BP-BE10-export.xsd">
+<meta>
+  <id>fd002ae5-d5ef-451e-83a2-e8b3a1b80503</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>ce0b063e-33a9-11ea-a518-0050569de354</id>
+    <displayName>Stadt Bern - Bauinspektorat</displayName>
+    <street>Bundesgasse</street>
+    <streetNumber>38</streetNumber>
+    <swissZipCode>3011</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005064</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-04-10</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Melchenbühlweg 156f, 3073 Gümligen</de>
+    <en>Bauprojekt: Melchenbühlweg 156f, Gümligen</en>
+    <it>Bauprojekt: Melchenbühlweg 156f, Gümligen</it>
+    <fr>Demande de permis de construire: Melchenbühlweg 156f, 3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>David und Sandra</prename>
+          <name>Bigler</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Melchenbühlweg</street>
+            <houseNumber>156f</houseNumber>
+            <swissZipCode>3073</swissZipCode>
+            <town>Gümligen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>buildingContractor</selectType>
+  </projectFramer>
+  <informationMunicipality>
+    <swissZipCode>3011</swissZipCode>
+    <town>Bern</town>
+  </informationMunicipality>
+  <projectDescription>Anbau eines neuen Milchviehstalles mit zusätzlicher Güllegrube gemäss den aufgelegten Plänen</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Melchenbühlweg</street>
+      <houseNumber>156f</houseNumber>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <additionalLegalRemedy>        &lt;p>&lt;b>Kreis /     Grundstück:&lt;/b>&lt;br/>&lt;/p>&lt;p>&lt;i>&lt;/i>&lt;/p>               &lt;p>&lt;b>&lt;/b>&lt;/p>                                      &lt;p>4 / 1293, BR 4295&lt;/p>   &lt;p>&lt;i>&lt;/i>&lt;/p>             &lt;p>&lt;b>Bauklasse:&lt;/b>&lt;/p>         &lt;p>Landwirtschaftszone &lt;/p>                &lt;p>&lt;b>Nutzungszone:&lt;/b>&lt;/p>         &lt;p>Landwirtschaftszone&lt;/p>                &lt;p>&lt;b>Inventar:&lt;/b>&lt;/p>         &lt;p>Melchenbühlweg   156f: Allmend - Murifeld / erhaltenswert, Kanton / Baugruppe&lt;/p>      &lt;p>&lt;a>&lt;/a>&lt;/p>&lt;p>Die &lt;b>Einsprachefrist&lt;/b> läuft bis und mit&lt;b> 10. Mai 2024.&lt;/b>&lt;/p>&lt;p>&lt;a>Die Auflageakten können &lt;/a>&lt;a>elektronisch eingesehen werden:&lt;br/> &lt;/a>https://www.portal.ebau.apps.be.ch/public-instances/109378/documents&lt;/p>&lt;p>Zudem liegen die Auflageakten beim Bauinspektorat, &lt;b>Bundesgasse 38, 4. Stock, Zimmer 481&lt;/b> in Papierform auf. Sie können während den &lt;b>Öffnungszeiten, Mo - Fr, 08.00 - 11.30 Uhr und 14.00 - 16.00 Uhr&lt;/b>, eingesehen werden.&lt;/p>&lt;p>Allfällige Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel innerhalb der Einsprachefrist dem Bauinspektorat der Stadt Bern, Bundesgasse 38, Postfach, 3001 Bern einzureichen. Kollektiveinsprachen und vervielfältigte Einzeleinsprachen sind nur rechtsgültig, wenn sie angeben, wer die Einsprechergruppe rechtsverbindlich zu vertreten befugt ist (Art. 35b Baugesetz).&lt;/p>&lt;p>Lastenausgleichsansprüche, die innert der Einsprachefrist nicht angemeldet werden, verwirken (Art. 30 und 31 Baugesetz).&lt;/p>&lt;p>Bauinspektorat der Stadt Bern&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+</content>
+</BP-BE10:publication>

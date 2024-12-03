@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.20/BP-BE10-export.xsd">
+<meta>
+  <id>43001ae3-285a-4136-98fd-bfbcc2b2ae2c</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>70da2714-5d3b-11ea-b804-0050569de354</id>
+    <displayName>Einwohnergemeinde Muri bei Bern - Bauverwaltung</displayName>
+    <street>Bahnhofstrasse</street>
+    <streetNumber>4</streetNumber>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005146</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-05-01</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Sonnenweg 22a, 3073 Gümligen</de>
+    <en>Bauprojekt: Sonnenweg 22a, Gümligen</en>
+    <it>Bauprojekt: Sonnenweg 22a, Gümligen</it>
+    <fr>Demande de permis de construire: Sonnenweg 22a, 3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Liliane</prename>
+          <name>Bregy</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Sonnenweg</street>
+            <houseNumber>22a</houseNumber>
+            <swissZipCode>3073</swissZipCode>
+            <town>Gümligen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>buildingContractor</selectType>
+  </projectFramer>
+  <informationMunicipality>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+  </informationMunicipality>
+  <projectDescription>Montage eines Glasdaches über Terrasse zum Witterungsschutz und Regenwasserfassung sowie seitlicher Sichtschutz.</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Sonnenweg</street>
+      <houseNumber>22a</houseNumber>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle Nr. 2367</locationCoordinate>
+  <useZoneSuperstructureRegulations>ZüO Tannacker</useZoneSuperstructureRegulations>
+  <zoneProtectionEaux>&lt;p>Au&lt;/p></zoneProtectionEaux>
+  <locationCirculationOffice>Gemeindeverwaltung Muri, Bahnhofstrasse 4, 3073 Gümligen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel innerhalb der Auflagefrist einzureichen, ebenfalls allfällige Begehren um Lastenausgleich. Lastenausgleichsansprüche, die nicht innert der Einsprachefrist eingereicht werden, verwirken. &lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-05-31</entryDeadline>
+  <registrationOffice>Bauinspektorat Muri, Bahnhofstrasse 4, 3073 Gümligen</registrationOffice>
+  <remarks>Es wird auf die Gesuchsakten verwiesen.
+Die Auflageakten können auch elektronisch eingesehen werden: 	www.portal.ebau.be.ch; eBau Nummer 2023-10544 / 151494.</remarks>
+</content>
+</BP-BE10:publication>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.21/BP-BE10-export.xsd">
+<meta>
+  <id>c665f316-78df-4fd5-9e25-3250f7018d80</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>3f185725-1d8f-11ea-b29f-0050569de354</id>
+    <displayName>Kanton Bern - RSTA - Bern-Mittelland</displayName>
+    <street>Kreditoren 4540, Freiburgstrasse</street>
+    <streetNumber>453</streetNumber>
+    <swissZipCode>3018</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005260</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-05-29</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: 3065 Bolligen</de>
+    <en>Bauprojekt: Bolligen</en>
+    <it>Bauprojekt: Bolligen</it>
+    <fr>Demande de permis de construire: 3065 Bolligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Bergmann</prename>
+          <name>Beat</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Flugbrunnen</street>
+            <houseNumber>394</houseNumber>
+            <swissZipCode>3065</swissZipCode>
+            <town>Bolligen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>buildingContractor</selectType>
+  </projectFramer>
+  <projectDescription>Nachträgliches Fällgesuch eines kranken Nussbaumes (Schutzobjekt Nr. 441) sowie einer Ersatz-pflanzung</projectDescription>
+  <projectLocation>
+    <address>
+      <swissZipCode>3065</swissZipCode>
+      <town>Bolligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Flugbrunnen 394, 3065 Bolligen, Parzellen-Nr. 1575, Koordinaten: 2’605’354 / 1’202'586</locationCoordinate>
+  <useZoneSuperstructureRegulations>Weilerzone</useZoneSuperstructureRegulations>
+  <protectedAreaObject>Inventar: Baugruppe D (Bolligen Flugbrunnen), in der Umgebung eines schützenswerten K-Objekts, Ortsbilderhaltungsgebiet</protectedAreaObject>
+  <exemptions>Fällen eines geschützten Baumes, Art. 41 NSchG</exemptions>
+  <additionalLegalRemedy>&lt;p>Auflage- und Einsprachefrist: &lt;b>29. Mai 2024 bis 28. Juni 2024&lt;/b>&lt;/p>&lt;p>&lt;b>Auflagestelle:&lt;/b> Gemeinde Bolligen, Hühnerbühlstr. 3, 3065 Bolligen&lt;/p>&lt;p>Elektronischer Zugriff: https://www.portal.ebau.apps.be.ch/public-instances/158571;&lt;br/> eBau Nummer: 2023-15472&lt;/p>&lt;p>Es wird auf die Gesuchsakten und auf die aufgestellten Profile verwiesen.&lt;/p>&lt;p>Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel &lt;b>beim Regierungsstatthalteramt Bern-Mittelland, Poststrasse 25, 3071 Ostermundigen&lt;/b> einzureichen.&lt;/p>&lt;p>Bei Kollektiveinsprachen oder vervielfältigten und weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten (Art. 35b BauG).&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+</content>
+</BP-BE10:publication>

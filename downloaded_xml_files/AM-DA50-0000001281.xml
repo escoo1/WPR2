@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.21/AM-DA50-export.xsd">
+<meta>
+  <id>c11a5db0-5f1e-4d25-b502-c2cd076914d3</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001281</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-06-19</publicationDate>
+  <expirationDate>2025-06-19</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Ersatz der bestehenden Heizung (Oel) durch eine aussen aufgestellte Luft-Wasser-Wärmepumpe, Ostermundigen</de>
+    <en>AM-DA50-0000001281</en>
+    <it>AM-DA50-0000001281</it>
+    <fr>Demande d'autorisation de construire – Ersatz der bestehenden Heizung (Oel) durch eine aussen aufgestellte Luft-Wasser-Wärmepumpe, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <regOfficeSignature>
+    <img>KO_363</img>
+  </regOfficeSignature>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <valueText>
+          <term>
+            <de>Ersatz der bestehenden Heizung (Oel) durch eine aussen aufgestellte Luft-Wasser-Wärmepumpe</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>buildingContractor</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Bauherrschaft</de>
+          <fr>Maître d'ouvrage</fr>
+        </term>
+        <mandatoryIn>true</mandatoryIn>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>Visana Services AG</name>
+              <customAddress>Samuel Bühlmann
+Weltpoststrasse 19
+3000 Bern</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectFramer</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Projektverfasser</de>
+          <fr>Auteur du projet</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>DECORVET HLKS Planungen AG</name>
+              <customAddress>Joel Stöckli
+Belpstrasse 71
+3007 Bern</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>landowner</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Grundeigentümer</de>
+          <fr>Propriétaire foncier</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>Visana Services AG</name>
+              <customAddress>Samuel Bühlmann
+Weltpoststrasse 19
+3000 Bern</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectAddress</key>
+        <valueType>address</valueType>
+        <term>
+          <de>Adresse des Bauprojekts</de>
+          <fr>Adresse du projet de construction</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <address>
+          <street>Birkenweg</street>
+          <houseNumber>17</houseNumber>
+          <swissZipCode>3072</swissZipCode>
+          <town>Ostermundigen</town>
+        </address>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>parcel</key>
+        <valueType>textNeutral</valueType>
+        <term>
+          <de>Parzelle</de>
+          <fr>Parcelle</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueTextNeutral>4112</valueTextNeutral>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>zone</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Zone</de>
+          <fr>Zone</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Zone mit Quartierplanung - Wohnzone 3</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;div>Es wird auf die Gesuchsakten verwiesen. Diese liegen bei der Abteilung Hochbau während den Büroöffnungszeiten auf oder sind online einsehbar.&lt;/div>&lt;p>Allfällige Einsprachen und Rechtsverwahrungen sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreten.&lt;br/>&lt;/p>&lt;div>&lt;div>&lt;/div>&lt;/div></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Gemeinde Ostermundigen - Hochbau&lt;br/>Bernstrasse 65D &lt;br/>3072 Ostermundigen&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>date</selectType>
+        <term>
+          <de>Frist</de>
+        </term>
+        <date>2024-07-19</date>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+        <fr>Ostermundigen</fr>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.22/BP-BE10-export.xsd">
+<meta>
+  <id>6f88d830-1b65-4945-a0b5-cd71510aeb93</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>70da2714-5d3b-11ea-b804-0050569de354</id>
+    <displayName>Einwohnergemeinde Muri bei Bern - Bauverwaltung</displayName>
+    <street>Bahnhofstrasse</street>
+    <streetNumber>4</streetNumber>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005882</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-11-06</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Alpenstrasse 4, 3073 Gümligen</de>
+    <en>Bauprojekt: Alpenstrasse 4, Gümligen</en>
+    <it>Bauprojekt: Alpenstrasse 4, Gümligen</it>
+    <fr>Demande de permis de construire: Alpenstrasse 4, 3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Haris</prename>
+          <name>Zulic</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Eigerweg</street>
+            <houseNumber>6</houseNumber>
+            <swissZipCode>3073</swissZipCode>
+            <town>Gümligen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>buildingContractor</selectType>
+  </projectFramer>
+  <projectDescription>Reklamegesuch: LED Werbetafel Format F12L digital mit Bildwechsel alle 60" mit Nachtabschaltung von 22.00 bis 6.00 Uhr.</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Alpenstrasse</street>
+      <houseNumber>4</houseNumber>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle GB Nr. 1595</locationCoordinate>
+  <useZoneSuperstructureRegulations>WG2</useZoneSuperstructureRegulations>
+  <locationCirculationOffice>Bauinspektorat Muri, Bahnhofstrasse 4, 3073 Gümligen</locationCirculationOffice>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-12-06</entryDeadline>
+  <registrationOffice>Bauinspektorat Muri, Bahnhofstrasse 4, 3073 Gümligen</registrationOffice>
+  <remarks>Es wird auf die Gesuchsakten und die aufgestellten Profile verwiesen. Die Auflageakten können auch elektronisch eingesehen werden: www.portal.ebau.apps.be.ch; eBau Nummer 2024-17908 / 215640.</remarks>
+</content>
+</BP-BE10:publication>

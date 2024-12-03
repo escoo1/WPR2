@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.21/BP-BE10-export.xsd">
+<meta>
+  <id>b0818580-339b-445e-9ccc-6a19a35a7bc4</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>70da2714-5d3b-11ea-b804-0050569de354</id>
+    <displayName>Einwohnergemeinde Muri bei Bern - Bauverwaltung</displayName>
+    <street>Bahnhofstrasse</street>
+    <streetNumber>4</streetNumber>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005495</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-07-24</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Worbstrasse 324a, 3073 Gümligen</de>
+    <en>Bauprojekt: Worbstrasse 324a, Gümligen</en>
+    <it>Bauprojekt: Worbstrasse 324a, Gümligen</it>
+    <fr>Demande de permis de construire: Worbstrasse 324a, 3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>company</selectType>
+      <multi>
+        <companies>
+          <noUID>true</noUID>
+          <company>
+            <name>Infracore SA</name>
+            <customAddress>Rue Georges-Jordil 4
+1700 Fribourg</customAddress>
+            <legalForm>0105</legalForm>
+          </company>
+        </companies>
+      </multi>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>true</noUID>
+        <company>
+          <name>Stucki Architekten SIA AG</name>
+          <customAddress>Morillonstrasse 11
+3007 Bern</customAddress>
+          <legalForm>0105</legalForm>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Gesuch um die Verlängerung der Baubewilligung vom 28. Juni 2021 für die Erstellung der Klinik Siloah und die Baustellenzufahrt über die Landwirtschaftszone infolge Verzug Bauentappe 2.</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Worbstrasse</street>
+      <houseNumber>324a</houseNumber>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle GB 3571</locationCoordinate>
+  <constructionClass>ZöN U, LW Zone</constructionClass>
+  <zoneMesureProtectionEaux>&lt;p>Ao&lt;/p></zoneMesureProtectionEaux>
+  <exemptions>Art. 24 ff RPG (Bauen in der LW Zone).</exemptions>
+  <locationCirculationOffice>Bauverwaltung Muri b. Bern
+Bahnhofstrasse 4
+3073 Gümligen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel innerhalb derAuflagefrist einzureichen, ebenfalls allfällige Begehren um Lastenausgleich. Lastenausgleichsansprüche, die nicht innert der Einsprachefrist eingereicht werden, verwirken.&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-08-23</entryDeadline>
+  <registrationOffice>Bauverwaltung Muri b. Bern
+Bahnhofstrasse 4
+3073 Gümligen</registrationOffice>
+  <remarks>Es wird auf die Gesuchsakten verwiesen. Die Auflageakten können auch elektronisch eingesehen werden: www.portal.ebau.be.ch; eBau Nummer 2024-9668 / 199980.</remarks>
+</content>
+</BP-BE10:publication>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.22/BP-BE10-export.xsd">
+<meta>
+  <id>44260495-078b-44c6-9574-add1942dcd6c</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005883</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-10-30</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Untere Zollgasse 41, 3072 Ostermundigen</de>
+    <en>Bauprojekt: Untere Zollgasse 41, Ostermundigen</en>
+    <it>Bauprojekt: Untere Zollgasse 41, Ostermundigen</it>
+    <fr>Demande de permis de construire: Untere Zollgasse 41, 3072 Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Caroline und Xhevdet</prename>
+          <name>Gashi</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Untere Zollgasse</street>
+            <houseNumber>41</houseNumber>
+            <swissZipCode>3072</swissZipCode>
+            <town>Ostermundigen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>false</noUID>
+        <company>
+          <name>NAAD Architektur GmbH</name>
+          <uid>CHE-395.264.674</uid>
+          <uidOrganisationId>395264674</uidOrganisationId>
+          <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+          <legalForm>0107</legalForm>
+          <address>
+            <street>Farnsbergstrasse</street>
+            <houseNumber>11a</houseNumber>
+            <swissZipCode>3360</swissZipCode>
+            <town>Herzogenbuchsee</town>
+          </address>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Nachträgliches Baugesuch; Umnutzung von Räumlichkeiten bzw. Flächenverschiebungen von rechtskräftig bewilligten Gewerbeflächen, Fassadenveränderungen Nordfassade, Anpassungen an der Umgebungsgestaltung</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Untere Zollgasse</street>
+      <houseNumber>41</houseNumber>
+      <swissZipCode>3072</swissZipCode>
+      <town>Ostermundigen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Untere Zollgasse 41, 3072 Ostermundigen, Parzelle Nr. 1058</locationCoordinate>
+  <useZoneSuperstructureRegulations>Landwirtschaftszone</useZoneSuperstructureRegulations>
+  <protectedAreaObject>Keine / Kein</protectedAreaObject>
+  <zoneProtectionEaux>&lt;p>Gewässerschutzbereich Au; Die Grundstücksentwässerung ist bestehend und wird nicht verändert.&lt;br/>&lt;br/>&lt;br/>&lt;/p></zoneProtectionEaux>
+  <exemptions>Bauen ausserhalb der Bauzone (Art. 24 ff RPG)</exemptions>
+  <locationCirculationOffice>Abteilung Hochbau Ostermundigen, Bernstrasse 65D, 3072 Ostermundigen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Elektronischer Zugriff: &lt;a href="https://www.portal.ebau.apps.be.ch/public-instances?municipality=20808" target="">https://www.portal.ebau.apps.be.ch/public-instances?municipality=20808&lt;/a>&lt;/p>&lt;p>&lt;b>Auflage- und Einsprachefrist: bis und mit 29. November 2024&lt;/b>&lt;/p>&lt;p>Es wird auf die Gesuchsakten verwiesen. Diese liegen bei der Abteilung Hochbau während den Büroöffnungszeiten auf.&lt;/p>&lt;p>Allfällige Einsprachen, Rechtsverwahrungen und Lastenausgleichsansprüche sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreten.&lt;/p>&lt;p>&lt;b>Begriff des Lastenausgleiches gemäss Art. 30 und 31 Baugesetz&lt;/b> &lt;/p>&lt;p>Nutzt ein Grundeigentümer einen Sondervorteil, der ihm durch eine Ausnahmebewilligung, eine Baulinie, eine Überbauungsordnung oder sonst wie in wesentlicher Abweichung von örtlichen Bauvorschriften zulasten eines Nachbarn eingeräumt ist, so hat er diesen Nachbarn zu entschädigen, wenn die Beeinträchtigung erheblich ist. Lastenausgleichsansprüche, die innert der Einsprachefrist nicht angemeldet werden, verwirken.&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-11-29</entryDeadline>
+  <registrationOffice>Abteilung Hochbau Ostermundigen, Bernstrasse 65D, 3072 Ostermundigen</registrationOffice>
+</content>
+</BP-BE10:publication>

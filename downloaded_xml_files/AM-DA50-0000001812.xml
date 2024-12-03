@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.22/AM-DA50-export.xsd">
+<meta>
+  <id>930236f9-ba75-4117-a931-29e4d2146d7e</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001812</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-11-15</publicationDate>
+  <expirationDate>2025-11-15</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Sanierung Liegenschaftsentwässerung, Ostermundigen</de>
+    <en>AM-DA50-0000001812</en>
+    <it>AM-DA50-0000001812</it>
+    <fr>Demande d'autorisation de construire – Sanierung Liegenschaftsentwässerung, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <regOfficeSignature>
+    <img>KO_363</img>
+  </regOfficeSignature>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <valueText>
+          <term>
+            <de>Sanierung Liegenschaftsentwässerung</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>buildingContractor</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Bauherrschaft</de>
+          <fr>Maître d'ouvrage</fr>
+        </term>
+        <mandatoryIn>true</mandatoryIn>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>Fambau Genossenschaft</name>
+              <customAddress>Mühledorfstrasse 5
+3018 Bern</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>buildingContractor</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Bauherrschaft</de>
+          <fr>Maître d'ouvrage</fr>
+        </term>
+        <mandatoryIn>true</mandatoryIn>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>naturalPerson</selectType>
+          <naturalPerson>
+            <residence>
+              <selectType>switzerland</selectType>
+            </residence>
+            <addressSwitzerland>
+              <street>Jungfraustrasse</street>
+              <houseNumber>5</houseNumber>
+              <swissZipCode>3076</swissZipCode>
+              <town>Worb</town>
+            </addressSwitzerland>
+            <sex>1</sex>
+            <firstName>Beat</firstName>
+            <officialName>Schwegler</officialName>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>buildingContractor</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Bauherrschaft</de>
+          <fr>Maître d'ouvrage</fr>
+        </term>
+        <mandatoryIn>true</mandatoryIn>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>naturalPerson</selectType>
+          <naturalPerson>
+            <residence>
+              <selectType>switzerland</selectType>
+            </residence>
+            <addressSwitzerland>
+              <street>Blankweg</street>
+              <houseNumber>46</houseNumber>
+              <swissZipCode>3066</swissZipCode>
+              <town>Stettlen</town>
+            </addressSwitzerland>
+            <sex>2</sex>
+            <firstName>Ines</firstName>
+            <officialName>Billau-Schwegler</officialName>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>buildingContractorDelegation</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Vertretung der Bauherrschaft</de>
+          <fr>Représentation du maître d'ouvrage</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>HLS Gesamtplanung GmbH</name>
+              <customAddress>Nicolas Heiniger
+Freiburgstrasse 844
+3174 Thörishaus</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectFramer</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Projektverfasser</de>
+          <fr>Auteur du projet</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>Extra Landschaftsarchitekten AG</name>
+              <customAddress>David Gnehm
+Schönburgstrasse 52
+3013 Bern</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>landowner</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Grundeigentümer</de>
+          <fr>Propriétaire foncier</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>Fambau Genossenschaft</name>
+              <customAddress>Mühledorfstrasse 5
+3018 Bern</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>landowner</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Grundeigentümer</de>
+          <fr>Propriétaire foncier</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>naturalPerson</selectType>
+          <naturalPerson>
+            <residence>
+              <selectType>switzerland</selectType>
+            </residence>
+            <addressSwitzerland>
+              <street>Jungfraustrasse</street>
+              <houseNumber>5</houseNumber>
+              <swissZipCode>3076</swissZipCode>
+              <town>Worb</town>
+            </addressSwitzerland>
+            <sex>1</sex>
+            <firstName>Beat</firstName>
+            <officialName>Schwegler</officialName>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>landowner</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Grundeigentümer</de>
+          <fr>Propriétaire foncier</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>naturalPerson</selectType>
+          <naturalPerson>
+            <countryOfOrigin>
+              <name>
+                <de>Schweiz</de>
+                <fr>Suisse</fr>
+                <it>Svizzera</it>
+                <en>Switzerland</en>
+              </name>
+              <isoCode>CH</isoCode>
+            </countryOfOrigin>
+            <residence>
+              <selectType>switzerland</selectType>
+            </residence>
+            <addressSwitzerland>
+              <street>Blankweg</street>
+              <houseNumber>46</houseNumber>
+              <swissZipCode>3066</swissZipCode>
+              <town>Stettlen</town>
+            </addressSwitzerland>
+            <sex>2</sex>
+            <firstName>Ines</firstName>
+            <officialName>Billau-Schwegler</officialName>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectAddress</key>
+        <valueType>address</valueType>
+        <term>
+          <de>Adresse des Bauprojekts</de>
+          <fr>Adresse du projet de construction</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <address>
+          <street>Blankweg</street>
+          <houseNumber>40-46</houseNumber>
+          <swissZipCode>3072</swissZipCode>
+          <town>Ostermundigen</town>
+        </address>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>parcel</key>
+        <valueType>textNeutral</valueType>
+        <term>
+          <de>Parzelle</de>
+          <fr>Parcelle</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueTextNeutral>5320</valueTextNeutral>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>zone</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Zone</de>
+          <fr>Zone</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Wohnzone 3</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;p>Es wird auf die Gesuchsakten verwiesen. Diese liegen bei der Abteilung Hochbau während den Büroöffnungszeiten auf oder sind online einsehbar.&lt;/p>&lt;p>Allfällige Einsprachen und Rechtsverwahrungen sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreten. &lt;/p>&lt;div>&lt;div>&lt;/div>&lt;/div></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Gemeinde Ostermundigen - Hochbau&lt;br/>Bernstrasse 65D &lt;br/>3072 Ostermundigen&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>date</selectType>
+        <term>
+          <de>Frist</de>
+        </term>
+        <date>2024-12-16</date>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+        <fr>Ostermundigen</fr>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

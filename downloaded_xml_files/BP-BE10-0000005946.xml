@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.22/BP-BE10-export.xsd">
+<meta>
+  <id>0e0574cf-0155-49af-a49b-4e19c2199ba7</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>3a4ce999-23f9-11eb-aadb-0050569de354</id>
+    <displayName>Einwohnergemeinde Bolligen - Bauverwaltung</displayName>
+    <street>Hühnerbühlstrasse</street>
+    <streetNumber>3</streetNumber>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>352</municipalityId>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005946</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-11-20</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Grauholz, 3065 Bolligen</de>
+    <en>Bauprojekt: Grauholz, Bolligen</en>
+    <it>Bauprojekt: Grauholz, Bolligen</it>
+    <fr>Demande de permis de construire: Grauholz, 3065 Bolligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>company</selectType>
+      <multi>
+        <companies>
+          <noUID>false</noUID>
+          <company>
+            <name>Salt Mobile SA</name>
+            <uid>CHE-106.836.776</uid>
+            <uidOrganisationId>106836776</uidOrganisationId>
+            <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+            <legalForm>0106</legalForm>
+            <address>
+              <street>Rue du Caudray</street>
+              <houseNumber>4</houseNumber>
+              <swissZipCode>1020</swissZipCode>
+              <town>Renens VD</town>
+            </address>
+          </company>
+        </companies>
+      </multi>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>yes</selectType>
+    <buildingContractor>
+      <legalEntity>
+        <selectType>company</selectType>
+        <multi>
+          <companies>
+            <noUID>false</noUID>
+            <company>
+              <name>Swiss Infra Services SA</name>
+              <uid>CHE-368.030.027</uid>
+              <uidOrganisationId>368030027</uidOrganisationId>
+              <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+              <legalForm>0106</legalForm>
+              <address>
+                <street>Thurgauerstrasse</street>
+                <houseNumber>136</houseNumber>
+                <swissZipCode>8152</swissZipCode>
+                <town>Glattpark (Opfikon)</town>
+              </address>
+            </company>
+          </companies>
+        </multi>
+      </legalEntity>
+    </buildingContractor>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>false</noUID>
+        <company>
+          <name>Complan AG</name>
+          <uid>CHE-104.502.689</uid>
+          <uidOrganisationId>104502689</uidOrganisationId>
+          <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+          <legalForm>0106</legalForm>
+          <address>
+            <street>Wasserwerkgasse</street>
+            <houseNumber>39</houseNumber>
+            <swissZipCode>3011</swissZipCode>
+            <town>Bern</town>
+          </address>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Baugesuch Nr.: Gemeinde: 2023-0030, eBau: 2023-19815
+
+Bauvorhaben: Erweiterung der bestehenden Mobilfunkanlage für Salt Mobile SA (BE_0123B)</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Grauholz</street>
+      <swissZipCode>3065</swissZipCode>
+      <town>Bolligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle Nr.: 291, Koordinaten: 2’603’417 / 1’204’846</locationCoordinate>
+  <useZoneSuperstructureRegulations>Landwirtschaftszone</useZoneSuperstructureRegulations>
+  <protectedAreaObject>Keine</protectedAreaObject>
+  <zoneProtectionEaux>&lt;p>üB&lt;/p></zoneProtectionEaux>
+  <exemptions>- Bauen im Strassenabstand, Art. 80/81 SG und Art. 4, Abs. 15 BR
+- Bauen ausserhalb der Bauzone, Art. 24 ff RPG
+- Bauen in Waldnähe, Art. 25/26/27 KWaG</exemptions>
+  <additionalLegalRemedy>&lt;p>Es handelt sich um eine bereits bestehende Anlage. Deshalb wird auf die Profilierung verzichtet (Art. 16 Abs. 3 BewD). Ansonsten wird auf die Gesuchsakten verwiesen.&lt;br/>&lt;/p>&lt;p>Vom&lt;b> 21. November 2024 bis 20. Dezember 2024 &lt;/b>können die Baugesuchunterlagen elektronisch via eBau eingesehen werden: (&lt;a href="https://www.portal.ebau.apps.be.ch/public-instances/157202" target="">https://www.portal.ebau.apps.be.ch/public-instances/157202&lt;/a>). Zudem liegen die Auflageakten bei der Bauverwaltung Bolligen während den Öffnungszeiten&lt;b> &lt;/b>auf.&lt;/p>&lt;p>Einsprachen und Rechtsverwahrungen sowie Lastenausgleichsbegehren sind schriftlich und begründet innerhalb der Auflagefrist im Doppel bei der Bauverwaltung Bolligen, Hühnerbühlstr. 3, 3065 Bolligen einzureichen.&lt;/p>&lt;p>Lastenausgleichsansprüche, die nicht innerhalb der Auflage- und Einsprachefrist angemeldet werden, verwirken (Art. 31 Abs. 4 Bst. a BauG).&lt;/p>&lt;p>Bei Kollektiveinsprachen oder vervielfältigten und weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten (Art. 35b BauG).&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-12-20</entryDeadline>
+  <registrationOffice>Bauverwaltung Bolligen, Hühnerbühlstrasse 3, 3065 Bolligen
+
+Ab 18. Dezember 2024: Bauverwaltung Bolligen, Flugbrunnenstrasse 16, 3065 Bolligen</registrationOffice>
+</content>
+</BP-BE10:publication>

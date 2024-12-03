@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.21/AM-DA50-export.xsd">
+<meta>
+  <id>bf3ec17c-c6ab-4443-80d5-3afd756d0aca</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001249</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-06-12</publicationDate>
+  <expirationDate>2025-06-12</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Dachsanierung, Dachgeschossumbau, Verbreiterung Lukarne, Ostermundigen</de>
+    <en>AM-DA50-0000001249</en>
+    <it>AM-DA50-0000001249</it>
+    <fr>Demande d'autorisation de construire – Dachsanierung, Dachgeschossumbau, Verbreiterung Lukarne, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <regOfficeSignature>
+    <img>KO_363</img>
+  </regOfficeSignature>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <valueText>
+          <term>
+            <de>Dachsanierung, Dachgeschossumbau, Verbreiterung Lukarne</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>projectFramer</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Projektverfasser</de>
+          <fr>Auteur du projet</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>false</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <uid>CHE-101.313.181</uid>
+              <name>Geissbühler Architekten AG</name>
+              <address>
+                <swissZipCode>3510</swissZipCode>
+                <street>Falkenweg</street>
+                <houseNumber>3</houseNumber>
+                <town>Konolfingen</town>
+              </address>
+              <additionalAddress>
+                <swissZipCode>3510</swissZipCode>
+                <street>Falkenweg</street>
+                <houseNumber>3</houseNumber>
+                <town>Konolfingen</town>
+              </additionalAddress>
+              <canton>BE</canton>
+              <status>ACTIVE</status>
+              <uidServiceType>COMPANY</uidServiceType>
+              <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+              <uidOrganisationId>101313181</uidOrganisationId>
+              <uidRegPublicStatus>true</uidRegPublicStatus>
+              <legalForm>0106</legalForm>
+            </company>
+            <typedText>geissbühler architekten</typedText>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectAddress</key>
+        <valueType>address</valueType>
+        <term>
+          <de>Adresse des Bauprojekts</de>
+          <fr>Adresse du projet de construction</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <address>
+          <street>Tulpenweg</street>
+          <houseNumber>8</houseNumber>
+          <swissZipCode>3072</swissZipCode>
+          <town>Ostermundigen</town>
+        </address>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>parcel</key>
+        <valueType>textNeutral</valueType>
+        <term>
+          <de>Parzelle</de>
+          <fr>Parcelle</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueTextNeutral>2855</valueTextNeutral>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>zone</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Zone</de>
+          <fr>Zone</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Wohnzone 1 (W1)</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>exceptions</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Ausnahmen</de>
+          <fr>Dérogations</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Unterschreiten der minimalen Raumhöhe (Art. 67 Abs. 2 BauV i. V. m Art. 26 BauG)</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;p>&lt;b>Auflage- und Einsprachefrist: bis und mit 12. Juli 2024&lt;/b>&lt;/p>&lt;p>Es wird auf die Gesuchsakten und die aufgestellten Profile verwiesen. Diese liegen bei der Abteilung Hochbau während den Büroöffnungszeiten auf oder sind online einsehbar.&lt;/p>&lt;p>Allfällige Einsprachen, Rechtsverwahrungen und Lastenausgleichsansprüche sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreten. &lt;/p>&lt;p>&lt;a>&lt;/a>&lt;a>&lt;/a>&lt;/p>&lt;p>&lt;b>Begriff des Lastenausgleiches gemäss Art. 30 und 31 Baugesetz &lt;/b>&lt;/p>&lt;p>Nutzt ein Grundeigentümer einen Sondervorteil, der ihm durch eine Ausnahmebewilligung, eine Baulinie, eine Überbauungsordnung oder sonst wie in wesentlicher Abweichung von örtlichen Bauvorschriften zulasten eines Nachbarn eingeräumt ist, so hat er diesen Nachbarn zu entschädigen, wenn die Beeinträchtigung erheblich ist. Lastenausgleichsansprüche, die innert der Einsprachefrist nicht angemeldet werden, verwirken.&lt;/p>&lt;div>&lt;div>&lt;/div>&lt;/div></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Gemeinde Ostermundigen - Hochbau&lt;br/>Bernstrasse 65D &lt;br/>3072 Ostermundigen&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>date</selectType>
+        <term>
+          <de>Frist</de>
+        </term>
+        <date>2024-07-12</date>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+        <fr>Ostermundigen</fr>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

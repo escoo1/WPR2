@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.22/BP-BE10-export.xsd">
+<meta>
+  <id>85c436b6-8bca-444e-a066-c88dc5d79afd</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>70da2714-5d3b-11ea-b804-0050569de354</id>
+    <displayName>Einwohnergemeinde Muri bei Bern - Bauverwaltung</displayName>
+    <street>Bahnhofstrasse</street>
+    <streetNumber>4</streetNumber>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005770</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-10-09</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Mattentrasse 8, 3073 Gümligen</de>
+    <en>Bauprojekt: Mattentrasse 8, Gümligen</en>
+    <it>Bauprojekt: Mattentrasse 8, Gümligen</it>
+    <fr>Demande de permis de construire: Mattentrasse 8, 3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>company</selectType>
+      <multi>
+        <companies>
+          <noUID>false</noUID>
+          <company>
+            <name>Valiant Bank AG</name>
+            <uid>CHE-105.944.759</uid>
+            <uidOrganisationId>105944759</uidOrganisationId>
+            <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+            <legalForm>0106</legalForm>
+            <address>
+              <street>Bundesplatz</street>
+              <houseNumber>4</houseNumber>
+              <swissZipCode>3011</swissZipCode>
+              <town>Bern</town>
+            </address>
+          </company>
+        </companies>
+      </multi>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>false</noUID>
+        <company>
+          <name>Westiform SA</name>
+          <uid>CHE-100.939.478</uid>
+          <uidOrganisationId>100939478</uidOrganisationId>
+          <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+          <legalForm>0106</legalForm>
+          <address>
+            <street>Freiburgstrasse</street>
+            <houseNumber>596</houseNumber>
+            <swissZipCode>3172</swissZipCode>
+            <town>Niederwangen b. Bern</town>
+          </address>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Neuanbringen von 2 Leuchtschriften "valiant"</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Mattentrasse</street>
+      <houseNumber>8</houseNumber>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle GB Nr. 483</locationCoordinate>
+  <useZoneSuperstructureRegulations>Arbeitsplatzzone A1</useZoneSuperstructureRegulations>
+  <locationCirculationOffice>Bauinspektorat Muri, Bahnhofstrasse 4, 3073 Gümligen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel innerhalb der Auflagefrist einzureichen, ebenfalls allfällige Begehren um Lastenausgleich. Lastenausgleichsansprüche , die nicht innert der Einsprachefrist eingereicht werden, verwirken.&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-11-08</entryDeadline>
+  <registrationOffice>Bauinspektorat Muri, Bahnhofstrasse 4, 3073 Gümligen</registrationOffice>
+  <remarks>Es wird auf die Gesuchsakten und die aufgestellten Profile verwiesen. Die Auflageakten können auch elektronisch eingesehen werden: www.portal.ebau.apps.be.ch; eBau Nummer 2024-16785 / 210838.</remarks>
+</content>
+</BP-BE10:publication>

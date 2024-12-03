@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.21/BP-BE10-export.xsd">
+<meta>
+  <id>01ad0a7f-c846-4d37-b288-964dbf97fabf</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>3f185725-1d8f-11ea-b29f-0050569de354</id>
+    <displayName>Kanton Bern - RSTA - Bern-Mittelland</displayName>
+    <street>Kreditoren 4540, Freiburgstrasse</street>
+    <streetNumber>453</streetNumber>
+    <swissZipCode>3018</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005598</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-08-28</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Wolfenstallweg, 3066 Stettlen</de>
+    <en>Bauprojekt: Wolfenstallweg, Stettlen</en>
+    <it>Bauprojekt: Wolfenstallweg, Stettlen</it>
+    <fr>Demande de permis de construire: Wolfenstallweg, 3066 Stettlen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3066</swissZipCode>
+    <town>Stettlen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>company</selectType>
+      <multi>
+        <companies>
+          <noUID>false</noUID>
+          <company>
+            <name>Einwohnergemeinde Stettlen</name>
+            <uid>CHE-114.891.352</uid>
+            <uidOrganisationId>114891352</uidOrganisationId>
+            <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+            <legalForm>0223</legalForm>
+            <address>
+              <street>Bernstrasse</street>
+              <houseNumber>116</houseNumber>
+              <swissZipCode>3066</swissZipCode>
+              <town>Stettlen</town>
+            </address>
+          </company>
+        </companies>
+      </multi>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>buildingContractor</selectType>
+  </projectFramer>
+  <projectDescription>Entwidmung Gemeindestrasse "Wolfenstallweg"
+____________________________
+Standort:</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Wolfenstallweg</street>
+      <swissZipCode>3066</swissZipCode>
+      <town>Stettlen</town>
+    </address>
+  </projectLocation>
+  <additionalLegalRemedy>&lt;p>Parzellen-Nr. 23, Zone: LWZ, Koordinaten: 2’605’965 / 1’201’808&lt;/p>&lt;p>Gewässerschutzbereich üB&lt;/p>&lt;p>Auflage- und Einsprachefrist: 27. September 2024&lt;/p>&lt;p>Auflagestelle: Gemeinde Stettlen, Bernstrasse 116, 3066 Stettlen&lt;/p>&lt;p>Elektronischer Zugriff: https://www.portal.ebau.apps.be.ch/public-instances?municipality=20904;&lt;br/> eBau Nummer: 2024-13637&lt;/p>&lt;p>Es wird auf die Gesuchsakten verwiesen.&lt;/p>&lt;p>Einsprachen und Rechtsverwahrungen sowie Lastenausgleichsbegehren sind schriftlich und begründet im Doppel beim Regierungsstatthalteramt Bern-Mittelland, Poststrasse 25, 3071 Ostermundigen einzureichen.&lt;/p>&lt;p>Lastenausgleichsansprüche, die nicht innerhalb der Auflage- und Einsprachefrist angemeldet werden, verwirken (Art. 31 Abs. 4 BauG).&lt;/p>&lt;p>Bei Kollektiveinsprachen oder vervielfältigten und weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten (Art. 35b BauG).&lt;/p>&lt;p>Verfügungen und Entscheide können im Amtsanzeiger oder im Amtsblatt veröffentlicht werden, wenn die Postzustellung wegen der grossen Zahl der eingelangten Einsprachen mit unverhältnismässigem Aufwand verbunden wäre (Art. 35d BauG).&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+</content>
+</BP-BE10:publication>

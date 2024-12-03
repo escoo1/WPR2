@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.21/AM-DA50-export.xsd">
+<meta>
+  <id>4c64d9ff-4c51-4259-95a0-d1cb3d90407a</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001556</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-08-28</publicationDate>
+  <expirationDate>2025-08-28</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Projektänderung zum Gesamtbauentscheid vom 18. Januar 2024: Montage Reklamen und Anpassung Zufahrtssituation, Ostermundigen</de>
+    <en>AM-DA50-0000001556</en>
+    <it>AM-DA50-0000001556</it>
+    <fr>Demande d'autorisation de construire – Projektänderung zum Gesamtbauentscheid vom 18. Januar 2024: Montage Reklamen und Anpassung Zufahrtssituation, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <regOfficeSignature>
+    <img>KO_363</img>
+  </regOfficeSignature>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <valueText>
+          <term>
+            <de>Projektänderung zum Gesamtbauentscheid vom 18. Januar 2024: Montage Reklamen und Anpassung Zufahrtssituation</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>buildingContractor</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Bauherrschaft</de>
+          <fr>Maître d'ouvrage</fr>
+        </term>
+        <mandatoryIn>true</mandatoryIn>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>false</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <uid>CHE-102.214.682</uid>
+              <name>Denz digital AG</name>
+              <address>
+                <swissZipCode>3006</swissZipCode>
+                <street>Zentweg</street>
+                <houseNumber>11</houseNumber>
+                <town>Bern</town>
+              </address>
+              <additionalAddress>
+                <swissZipCode>3006</swissZipCode>
+                <street>Zentweg</street>
+                <houseNumber>11</houseNumber>
+                <town>Bern</town>
+              </additionalAddress>
+              <canton>BE</canton>
+              <status>ACTIVE</status>
+              <uidServiceType>COMPANY</uidServiceType>
+              <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+              <uidOrganisationId>102214682</uidOrganisationId>
+              <uidRegPublicStatus>true</uidRegPublicStatus>
+              <legalForm>0106</legalForm>
+            </company>
+            <typedText>denz digital ag</typedText>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectFramer</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Projektverfasser</de>
+          <fr>Auteur du projet</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>false</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <uid>CHE-113.054.738</uid>
+              <name>Goldbeck Rhomberg AG</name>
+              <address>
+                <swissZipCode>9016</swissZipCode>
+                <street>Lerchentalstrasse</street>
+                <houseNumber>21</houseNumber>
+                <town>St. Gallen</town>
+              </address>
+              <additionalAddress>
+                <swissZipCode>9016</swissZipCode>
+                <street>Lerchentalstrasse</street>
+                <houseNumber>21</houseNumber>
+                <town>St. Gallen</town>
+              </additionalAddress>
+              <canton>SG</canton>
+              <status>ACTIVE</status>
+              <uidServiceType>COMPANY</uidServiceType>
+              <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+              <uidOrganisationId>113054738</uidOrganisationId>
+              <uidRegPublicStatus>true</uidRegPublicStatus>
+              <legalForm>0106</legalForm>
+            </company>
+            <typedText>goldbeck rhomberg</typedText>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectAddress</key>
+        <valueType>address</valueType>
+        <term>
+          <de>Adresse des Bauprojekts</de>
+          <fr>Adresse du projet de construction</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <address>
+          <street>Milchstrasse</street>
+          <houseNumber>12</houseNumber>
+          <swissZipCode>3072</swissZipCode>
+          <town>Ostermundigen</town>
+        </address>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>parcel</key>
+        <valueType>textNeutral</valueType>
+        <term>
+          <de>Parzelle</de>
+          <fr>Parcelle</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueTextNeutral>7328 und 7632</valueTextNeutral>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>zone</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Zone</de>
+          <fr>Zone</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Arbeitszone Mösli</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>exceptions</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Ausnahmen</de>
+          <fr>Dérogations</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>keine</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;p>&lt;b>Auflage- und Einsprachefrist: bis und mit 27. September 2024&lt;/b>&lt;/p>&lt;p>Es wird auf die Gesuchsakten verwiesen. Die Akten liegen bei der Abteilung Hochbau während den Büroöffnungszeiten auf.&lt;/p>&lt;p>Allfällige Einsprachen und Rechtsverwahrungen sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreten. &lt;/p>&lt;div>&lt;div>&lt;/div>&lt;/div></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Gemeinde Ostermundigen - Hochbau&lt;br/>Bernstrasse 65D &lt;br/>3072 Ostermundigen&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>date</selectType>
+        <term>
+          <de>Frist</de>
+        </term>
+        <date>2024-09-27</date>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+        <fr>Ostermundigen</fr>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

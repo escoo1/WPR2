@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.21/BP-BE10-export.xsd">
+<meta>
+  <id>0ffdb6fb-42f5-4ae9-bc84-c622a989a0d7</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>70da2714-5d3b-11ea-b804-0050569de354</id>
+    <displayName>Einwohnergemeinde Muri bei Bern - Bauverwaltung</displayName>
+    <street>Bahnhofstrasse</street>
+    <streetNumber>4</streetNumber>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005319</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-06-19</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Dennigkofenweg 37, 3073 Gümligen</de>
+    <en>Bauprojekt: Dennigkofenweg 37, Gümligen</en>
+    <it>Bauprojekt: Dennigkofenweg 37, Gümligen</it>
+    <fr>Demande de permis de construire: Dennigkofenweg 37, 3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3073</swissZipCode>
+    <town>Muri bei Bern</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Toni</prename>
+          <name>Büsch</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Dennigkofenweg</street>
+            <houseNumber>37</houseNumber>
+            <swissZipCode>3073</swissZipCode>
+            <town>Gümligen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>delegationBuildingContractor</selectType>
+  </projectFramer>
+  <projectDescription>Erneuerung der Stützmauer am Dennigkofenweg, neu mit aufgesetzter Lärmschutzwand .</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Dennigkofenweg</street>
+      <houseNumber>37</houseNumber>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle GB Nr. 2132</locationCoordinate>
+  <useZoneSuperstructureRegulations>W2</useZoneSuperstructureRegulations>
+  <exemptions>von Art. 18 BauR, Bauen im Strassenabstand.</exemptions>
+  <locationCirculationOffice>Bauverwaltung Muri, Bahnhofstrasse 4, 3073 Gümligen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Einsprachen und Rechtsverwarungen sind schriftlich und begründet im Doppel innerhalb der Auflagefrist einzureichen, ebenfalls allfällige Begehren um Lastenausgleich. Lastenausgleichsansprüche , die nicht innert der Einsprachefrist eingereicht werden, verwirken.&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-07-19</entryDeadline>
+  <registrationOffice>Bauverwaltung Muri, Bahnhofstrasse 4, 3073 Gümligen</registrationOffice>
+  <remarks>Es wird auf die Gesuchsakten und die aufgestellten Profile verwiesen. Die Auflageakten können auch elektronisch eingesehen werden: www.portal.ebau.be.ch; eBau Nummer 2024-10115 / 194379.</remarks>
+</content>
+</BP-BE10:publication>

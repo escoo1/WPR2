@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.21/BP-BE10-export.xsd">
+<meta>
+  <id>0280433b-b112-40ea-82db-6c556302023e</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>3a4ce999-23f9-11eb-aadb-0050569de354</id>
+    <displayName>Einwohnergemeinde Bolligen - Bauverwaltung</displayName>
+    <street>Hühnerbühlstrasse</street>
+    <streetNumber>3</streetNumber>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>352</municipalityId>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005630</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-08-28</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Harnischhuet 298, 3065 Bolligen</de>
+    <en>Bauprojekt: Harnischhuet 298, Bolligen</en>
+    <it>Bauprojekt: Harnischhuet 298, Bolligen</it>
+    <fr>Demande de permis de construire: Harnischhuet 298, 3065 Bolligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Andrea Elisabeth</prename>
+          <name>Oberli</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Harnischhuet</street>
+            <houseNumber>298</houseNumber>
+            <swissZipCode>3065</swissZipCode>
+            <town>Bolligen</town>
+          </addressSwitzerland>
+        </person>
+        <person>
+          <prename>Thys</prename>
+          <name>Bucher</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Harnischhuet</street>
+            <houseNumber>298</houseNumber>
+            <swissZipCode>3065</swissZipCode>
+            <town>Bolligen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>delegationBuildingContractor</selectType>
+  </projectFramer>
+  <projectDescription>Projektänderung:
+Weglassen thermischer Solarkollektoren, Vergrösserung der PV-Anlage
+
+Ursprüngliches Baugesuch:
+Sanierung/Umbau Wohngebäude mit Wohnraumerweiterung in bestehendem Gebäudevolumen</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Harnischhuet</street>
+      <houseNumber>298</houseNumber>
+      <swissZipCode>3065</swissZipCode>
+      <town>Bolligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle Nr.: 594, Koordinaten: 2’606’303 / 1’204’120</locationCoordinate>
+  <useZoneSuperstructureRegulations>Ausserhalb Bauzone / Landwirtschaftszone</useZoneSuperstructureRegulations>
+  <protectedAreaObject>Schützenswertes K-Objekt, Landschaftsschutzgebiet</protectedAreaObject>
+  <zoneProtectionEaux>&lt;p>Au&lt;/p></zoneProtectionEaux>
+  <exemptions>Bauen ausserhalb der Bauzone, Art. 24 ff RPG
+Bauen in Waldnähe, Art. 25 KWaG</exemptions>
+  <locationCirculationOffice>Bauverwaltung Bolligen, eBau</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Vom 29. August 2024 bis 27. September 2024 können die Baugesuchunterlagen elektronisch via eBau eingesehen werden: (&lt;a href="https://www.portal.ebau.apps.be.ch/public-instances/205141" target="">https://www.portal.ebau.apps.be.ch/public-instances/205141&lt;/a>). Zudem liegen die Auflageakten bei der Bauverwaltung Bolligen während den Öffnungszeiten auf. Gemäss Art. 28 Abs. 3 BewD sind die physischen Unterlagen rechtlich massgebend.&lt;br/>&lt;/p>&lt;p>Einsprachen und Rechtsverwahrungen sowie Lastenausgleichsbegehren sind schriftlich und begründet innerhalb der Auflagefrist im Doppel bei der Bauverwaltung Bolligen, Hühnerbühlstr. 3, 3065 Bolligen einzureichen.&lt;/p>&lt;p>Lastenausgleichsansprüche, die nicht innerhalb der Auflage- und Einsprachefrist angemeldet werden, verwirken (Art. 31 Abs. 4 Bst. a BauG).&lt;/p>&lt;p>Bei Kollektiveinsprachen oder vervielfältigten und weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten (Art. 35b BauG).&lt;br/>&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-09-27</entryDeadline>
+  <registrationOffice>Bauverwaltung Bolligen
+Hühnerbühlstr. 3
+3065 Bolligen</registrationOffice>
+  <remarks>Gestützt auf Artikel 97 Abs. 4 des Bundesgesetzes vom 29. April 1998 über die Landwirtschaft (LwG) sind die aufgrund der Gesetzgebung über den Natur- und Heimatschutz, den Umweltschutz und die Wanderwege legitimierten Organisationen zur Einsprache berechtigt.</remarks>
+</content>
+</BP-BE10:publication>

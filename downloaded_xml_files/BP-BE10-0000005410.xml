@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.21/BP-BE10-export.xsd">
+<meta>
+  <id>ec68d24e-d0ff-400d-befb-098ce7525b94</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>70da2714-5d3b-11ea-b804-0050569de354</id>
+    <displayName>Einwohnergemeinde Muri bei Bern - Bauverwaltung</displayName>
+    <street>Bahnhofstrasse</street>
+    <streetNumber>4</streetNumber>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005410</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-07-03</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Dentenbergstrasse 27, 3073 Gümligen</de>
+    <en>Bauprojekt: Dentenbergstrasse 27, Gümligen</en>
+    <it>Bauprojekt: Dentenbergstrasse 27, Gümligen</it>
+    <fr>Demande de permis de construire: Dentenbergstrasse 27, 3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Marius</prename>
+          <name>Heer</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Dentenbergstrasse</street>
+            <houseNumber>27</houseNumber>
+            <swissZipCode>3073</swissZipCode>
+            <town>Gümligen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>false</noUID>
+        <company>
+          <name>Pawlik + Wiedmer GmbH</name>
+          <uid>CHE-110.611.401</uid>
+          <uidOrganisationId>110611401</uidOrganisationId>
+          <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+          <legalForm>0107</legalForm>
+          <address>
+            <street>Hochfeldstrasse</street>
+            <houseNumber>8</houseNumber>
+            <swissZipCode>3012</swissZipCode>
+            <town>Bern</town>
+          </address>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Ersatz Sichtschutzhecke durch 1.20 m hohe Natursteinmauer inkl. Begrünung in Böschung. Neuerstellung Stahlwand (H: 3.00 m; rostbraun).</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Dentenbergstrasse</street>
+      <houseNumber>27</houseNumber>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle 2086</locationCoordinate>
+  <useZoneSuperstructureRegulations>WL</useZoneSuperstructureRegulations>
+  <zoneProtectionEaux>&lt;p>üB&lt;/p></zoneProtectionEaux>
+  <locationCirculationOffice>Bauinspektorat Muri bei Bern
+Bahnhofstrasse 4
+3073 Gümligen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel innerhalb der Auflagefrist einzureichen, ebenfalls allfällige Begehren um Lastenausgleich. Lastenausgleichsansprüche, die nicht innert der Einsprachefrist eingereicht werden, verwirken.&lt;br/>&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-08-02</entryDeadline>
+  <registrationOffice>Bauinspektorat Muri bei Bern
+Bahnhofstrasse 4
+3073 Gümligen</registrationOffice>
+  <remarks>Es wird auf die Gesuchsakten und Profile verwiesen. Die Auflageakten können auch elektronisch eingesehen werden: www.portal.ebau.ch; eBau Nummer: 2024-11529 / 201344.</remarks>
+</content>
+</BP-BE10:publication>

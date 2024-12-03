@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.20/AM-DA50-export.xsd">
+<meta>
+  <id>54518ca6-dcec-46af-9658-1bd93485cb8b</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>6137ba28-9fd0-11ee-bde8-045056009051</id>
+    <displayName>Kanton Bern - Regierungsstatthalteramt Bern-Mittelland</displayName>
+    <street>Kreditoren 4540, Freiburgstrasse</street>
+    <streetNumber>453</streetNumber>
+    <swissZipCode>3018</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001010</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-04-29</publicationDate>
+  <expirationDate>2025-04-29</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Bernstrasse 31, 31a, 31b, Ostermundigen</de>
+    <en>AM-DA50-0000001010</en>
+    <it>AM-DA50-0000001010</it>
+    <fr>– Bernstrasse 31, 31a, 31b</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Standortadresse</de>
+        </term>
+        <valueText>
+          <term>
+            <de>Bernstrasse 31, 31a, 31b</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;div>&lt;div>&lt;/div>&lt;/div></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Kanton Bern - Regierungsstatthalteramt Bern-Mittelland&lt;br/>Kreditoren 4540, Freiburgstrasse 453 &lt;br/>3018 Bern&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>no-deadline</selectType>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

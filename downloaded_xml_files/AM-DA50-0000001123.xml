@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.21/AM-DA50-export.xsd">
+<meta>
+  <id>cfda0b47-00d1-429f-8589-2b4f40dbef9c</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001123</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-05-24</publicationDate>
+  <expirationDate>2025-05-24</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Ersatz von bestehenden Reklameelementen, Ostermundigen</de>
+    <en>AM-DA50-0000001123</en>
+    <it>AM-DA50-0000001123</it>
+    <fr>Demande d'autorisation de construire – Ersatz von bestehenden Reklameelementen, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <regOfficeSignature>
+    <img>KO_363</img>
+  </regOfficeSignature>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <valueText>
+          <term>
+            <de>Ersatz von bestehenden Reklameelementen</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>buildingContractor</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Bauherrschaft</de>
+          <fr>Maître d'ouvrage</fr>
+        </term>
+        <mandatoryIn>true</mandatoryIn>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>Emil Frey AG</name>
+              <customAddress>Franz Häfliger
+Milchstrasse 3
+3072 Ostermundigen</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectFramer</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Projektverfasser</de>
+          <fr>Auteur du projet</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>Westiform AG</name>
+              <customAddress>Drilon Berisha
+Freiburgstrasse 596
+3172 Niederwangen b. Bern</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>landowner</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Grundeigentümer</de>
+          <fr>Propriétaire foncier</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>Emil Frey AG Immobilien</name>
+              <customAddress>Badenerstrasse 600
+8048 Zürich</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectAddress</key>
+        <valueType>address</valueType>
+        <term>
+          <de>Adresse des Bauprojekts</de>
+          <fr>Adresse du projet de construction</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <address>
+          <street>Milchstrasse</street>
+          <houseNumber>3</houseNumber>
+          <swissZipCode>3072</swissZipCode>
+          <town>Ostermundigen</town>
+        </address>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>parcel</key>
+        <valueType>textNeutral</valueType>
+        <term>
+          <de>Parzelle</de>
+          <fr>Parcelle</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueTextNeutral>4914</valueTextNeutral>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;div>&lt;b>&lt;/b>Es wird auf die Gesuchsakten verwiesen. Diese liegen bei der Abteilung Hochbau während den Büroöffnugszeiten auf oder sind online einsehbar.&lt;b>&lt;/b>&lt;/div>&lt;p>&lt;br/>&lt;/p>&lt;p>Allfällige Einsprachen und Rechtsverwahrungen sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreteten.&lt;br/>&lt;/p>&lt;div>&lt;div>&lt;/div>&lt;/div></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Gemeinde Ostermundigen - Hochbau&lt;br/>Bernstrasse 65D &lt;br/>3072 Ostermundigen&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>date</selectType>
+        <term>
+          <de>Frist</de>
+        </term>
+        <date>2024-06-24</date>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+        <fr>Ostermundigen</fr>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

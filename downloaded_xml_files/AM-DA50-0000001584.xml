@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.22/AM-DA50-export.xsd">
+<meta>
+  <id>8948a7e6-58c5-4575-ba2b-6363bedd5dec</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001584</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-09-16</publicationDate>
+  <expirationDate>2025-09-16</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Einbau Abfüll- und Verpackungsanlage, Neuinstallation Lüftungsanlage, Ostermundigen</de>
+    <en>AM-DA50-0000001584</en>
+    <it>AM-DA50-0000001584</it>
+    <fr>Demande d'autorisation de construire – Einbau Abfüll- und Verpackungsanlage, Neuinstallation Lüftungsanlage, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <regOfficeSignature>
+    <img>KO_363</img>
+  </regOfficeSignature>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <valueText>
+          <term>
+            <de>Einbau Abfüll- und Verpackungsanlage, Neuinstallation Lüftungsanlage</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>projectFramer</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Projektverfasser</de>
+          <fr>Auteur du projet</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <legalPerson>
+            <noUID>false</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <uid>CHE-103.904.967</uid>
+              <name>SKS Architekten AG</name>
+              <address>
+                <swissZipCode>3007</swissZipCode>
+                <street>Seftigenstrasse</street>
+                <houseNumber>57</houseNumber>
+                <town>Bern</town>
+              </address>
+              <additionalAddress>
+                <swissZipCode>3007</swissZipCode>
+                <street>Seftigenstrasse</street>
+                <houseNumber>57</houseNumber>
+                <town>Bern</town>
+              </additionalAddress>
+              <canton>BE</canton>
+              <status>ACTIVE</status>
+              <uidServiceType>COMPANY</uidServiceType>
+              <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+              <uidOrganisationId>103904967</uidOrganisationId>
+              <uidRegPublicStatus>true</uidRegPublicStatus>
+              <legalForm>0106</legalForm>
+            </company>
+            <typedText>sks architekten</typedText>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+          <selectType>legalPerson</selectType>
+        </subject>
+        <customTerm>false</customTerm>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectAddress</key>
+        <valueType>address</valueType>
+        <term>
+          <de>Adresse des Bauprojekts</de>
+          <fr>Adresse du projet de construction</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <address>
+          <street>Milchstrasse</street>
+          <houseNumber>9</houseNumber>
+          <swissZipCode>3072</swissZipCode>
+          <town>Ostermundigen</town>
+        </address>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>parcel</key>
+        <valueType>textNeutral</valueType>
+        <term>
+          <de>Parzelle</de>
+          <fr>Parcelle</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueTextNeutral>4438</valueTextNeutral>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>zone</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Zone</de>
+          <fr>Zone</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Industriezone</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;p>&lt;b>Auflage- und Einsprachefrist: bis und mit 16. Oktober 2024&lt;/b>&lt;br/>&lt;/p>&lt;p>Es wird auf die Gesuchsakten verwiesen. Diese liegen bei der Abteilung Hochbau während den Büroöffnungszeiten auf oder sind online einsehbar.&lt;/p>&lt;p>Allfällige Einsprachen und Rechtsverwahrungen sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreten. &lt;/p></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Gemeinde Ostermundigen - Hochbau&lt;br/>Bernstrasse 65D &lt;br/>3072 Ostermundigen&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>date</selectType>
+        <term>
+          <de>Frist</de>
+        </term>
+        <date>2024-10-16</date>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+        <fr>Ostermundigen</fr>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

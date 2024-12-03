@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RP-BE20:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:RP-BE20="https://shab.ch/kabbe/RP-BE20-export" xsi:schemaLocation="https://shab.ch/kabbe/RP-BE20-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.21/RP-BE20-export.xsd">
+<meta>
+  <id>4ab2fccc-ede5-44b4-bc4a-d1999bdd4377</id>
+  <rubric>RP-BE</rubric>
+  <subRubric>RP-BE20</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>18c5b1e3-1ce1-11ea-856b-0050569db5fb</id>
+    <displayName>Einwohnergemeinde Bolligen</displayName>
+    <street>Hühnerbühlstrasse</street>
+    <streetNumber>3</streetNumber>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>352</municipalityId>
+  </registrationOffice>
+  <publicationNumber>RP-BE20-0000001204</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-08-21</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Arealentwicklung Bahnhof Bolligen (Gesamtentscheid, Genehmigung</de>
+    <en>EN_Arealentwicklung Bahnhof Bolligen (Gesamtentscheid, Genehmigung</en>
+    <it>IT_Arealentwicklung Bahnhof Bolligen (Gesamtentscheid, Genehmigung</it>
+    <fr>Arealentwicklung Bahnhof Bolligen (Gesamtentscheid, Approbation</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+  </informationMunicipality>
+  <arrangementDecision>
+    <selectType>approval</selectType>
+  </arrangementDecision>
+  <planName>Arealentwicklung Bahnhof Bolligen (Gesamtentscheid</planName>
+  <things>&lt;p>Das Amt für Gemeinden und Raumordnung hat die von der Einwohnergemeinde Bolligen am 7. Juni 2022 beschlossene Arealentwicklung «Bahnhof Bolligen» (Änderung Zonenplan und Änderung Baureglement Anhang 2, ZPP Nr. VII «Bahnhof Ost» und ZPP Nr. XII «Bahnhof West») in Anwendung von Art. 61 Baugesetz vom 9. Juni 1985 mit Datum vom 12. Juni 2024 genehmigt. Der Gesamtentscheid nach Art. 9 KoG umfasst weiter das Abbruchgesuch für die Liegenschaft Bolligenstrasse 92a gemäss dem eingereichten Baugesuch mit Situationsplan vom 24. Februar 2021.&lt;/p>&lt;p>Mit dem Genehmigungsbeschluss wurden von Amtes wegen folgender Änderungen vorgenommen: Die Anzahl der erledigten Einsprachen im Zonenplan und im Baureglement wurden von «10» auf «0» korrigiert.&lt;/p>&lt;p>Die Arealentwicklung «Bahnhof Bolligen» inkl. die im Gesamtentscheid bezeichneten Gegenstände treten am 22. August 2024 in Kraft. &lt;/p>&lt;p>Die Unterlagen stehen bei der Gemeindeverwaltung Bolligen beim Regierungsstatthalteramt und beim Amt für Gemeinden und Raumordnung, jedermann zur Einsichtnahme offen. &lt;br/>&lt;br/>&lt;i>Einwohnergemeinde Bolligen&lt;br/>Gemeinderat&lt;/i>&lt;/p></things>
+  <registrationOffice>Einwohnergemeinde Bolligen
+Hühnerbühlstrasse 3 
+3065 Bolligen</registrationOffice>
+</content>
+</RP-BE20:publication>

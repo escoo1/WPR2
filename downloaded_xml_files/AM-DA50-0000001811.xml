@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.22/AM-DA50-export.xsd">
+<meta>
+  <id>728edcf7-ca3a-4d29-99c8-f44cc7810c79</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>6137ba28-9fd0-11ee-bde8-045056009051</id>
+    <displayName>Kanton Bern - Regierungsstatthalteramt Bern-Mittelland</displayName>
+    <street>Kreditoren 4540, Freiburgstrasse</street>
+    <streetNumber>453</streetNumber>
+    <swissZipCode>3018</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001811</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-11-18</publicationDate>
+  <expirationDate>2025-11-18</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Bühlweg 3, Ostermundigen</de>
+    <en>AM-DA50-0000001811</en>
+    <it>AM-DA50-0000001811</it>
+    <fr>Demande d'autorisation de construire – Bühlweg 3, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Standort des Bauvorhabens</de>
+        </term>
+        <valueText>
+          <term>
+            <de>Bühlweg 3</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>projectDescription</key>
+        <valueType>richtext</valueType>
+        <term>
+          <de>Projektbeschreibung</de>
+          <fr>Description du projet</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueRichText>
+          <de>&lt;p>&lt;b>Bauherrschaft:&lt;/b> Pierre + Franziska Senglet-Greuter, Bühlweg 3, 3072 Ostermundigen&lt;/p>&lt;p>&lt;b>Projektierung:&lt;/b> Weiss + Kaltenrieder AG | Architekturbüro SIA, Wylerstrasse 61, 3014 Bern&lt;/p>&lt;p>&lt;b>Bauvorhaben:&lt;/b> Rodung eines kommunal geschützten Nussbaums mit Ersatzpflanzung&lt;br/>&lt;/p>&lt;p>&lt;b>Standort:&lt;/b> Bühlweg 3, Ostermundigen, Parzelle-Nr. 5287, Dorfschutzzone&lt;/p>&lt;p>&lt;b>Ausnahmen:&lt;/b> &lt;a>&lt;/a>Art. 94 GBR i.A.m Art. 1 NschG, Fällen eines geschützten Baumes&lt;/p>&lt;p>&lt;b>Auflage- und Einsprachefrist: 18. November 2024 bis 18. Dezember 2024&lt;/b>&lt;/p>&lt;p>Auflagestelle: Gemeinde Ostermundigen, Bernstrasse 65 D, 3072 Ostermundigen 2&lt;/p>&lt;p>Elektronischer Zugriff: https://www.portal.ebau.apps.be.ch/public-instances/210026;&lt;br/> eBau Nummer: 2024-16786&lt;/p>&lt;p>Es wird auf die Gesuchsakten verwiesen.&lt;/p>&lt;p>Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel beim Regierungsstatthalteramt Bern-Mittelland, Poststrasse 25, 3071 Ostermundigen einzureichen.&lt;/p>&lt;p>Lastenausgleichsansprüche, die nicht innerhalb der Auflage- und Einsprachefrist angemeldet werden, verwirken (Art. 31 Abs. 4 BauG).&lt;/p>&lt;p>Bei Kollektiveinsprachen oder vervielfältigten und weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten (Art. 35b BauG).&lt;/p></de>
+        </valueRichText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;div>&lt;div>&lt;/div>&lt;/div></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Kanton Bern - Regierungsstatthalteramt Bern-Mittelland&lt;br/>Kreditoren 4540, Freiburgstrasse 453 &lt;br/>3018 Bern&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>no-deadline</selectType>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+        <fr>Ostermundigen</fr>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

@@ -1,0 +1,101 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+import os
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+
+# Pfad zum ChromeDriver (falls nicht im PATH)
+driver_path = '/Users/lenobach/Desktop/chromedriver-mac-arm64/chromedriver'
+
+# Verzeichnis zum Speichern der XML-Dateien
+download_dir = os.path.abspath('downloaded_xml_files')
+os.makedirs(download_dir, exist_ok=True)
+
+# Konfiguriere den WebDriver mit benutzerdefiniertem Download-Ordner
+chrome_options = Options()
+prefs = {
+    "download.default_directory": download_dir,  # Set the download folder
+    "download.prompt_for_download": False,       # Disable download prompts
+    "download.directory_upgrade": True,         # Automatically overwrite
+    "safebrowsing.enabled": True                # Enable safe browsing
+}
+chrome_options.add_experimental_option("prefs", prefs)
+
+# Starte den Webdriver mit korrekter Service-Initialisierung und Optionen
+service = Service(driver_path)
+driver = webdriver.Chrome(service=service, options=chrome_options)
+
+try:
+    # 1. Öffne die Webseite
+    driver.get('https://epublikation.ch/#!/search/publications?filterId=ee0436e8-8086-11ed-82f6-045056009010')
+
+    # 2. Warte, bis das Eingabefeld für die Gemeindeauswahl vorhanden ist, und wähle "Ostermundigen" aus
+    gemeinde_input = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.ID, 'municipalityName'))
+    )
+    gemeinde_input.send_keys('Ostermundigen')
+    gemeinde_input.send_keys(Keys.RETURN)
+    time.sleep(5)
+
+    # 3. Warte, bis das Eingabefeld für die Stichwortsuche vorhanden ist, und gib "Baugesuch" ein
+    search_input = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.ID, 'keyword'))
+    )
+    search_input.send_keys('Baugesuch')
+    search_input.send_keys(Keys.RETURN)
+    time.sleep(2)
+
+    # 4. Warte, bis die Links zu den Einträgen geladen sind
+    print("Seite geladen, warte auf Links...")
+    links = WebDriverWait(driver, 20).until(
+        EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.list-col-highlighted > h2 > a'))
+    )
+    print(f"{len(links)} Links gefunden.")
+
+    for i in range(len(links)):
+        # Lade die Links nach jedem Back-Schritt erneut
+        links = WebDriverWait(driver, 20).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.list-col-highlighted > h2 > a'))
+        )
+        link = links[i]
+
+        # Versuche den Link klickbar zu machen
+        try:
+            print(f"Öffne Eintrag {i+1}")
+            driver.execute_script("arguments[0].scrollIntoView(true);", link)
+            time.sleep(1)  # Warten bis der Scroll abgeschlossen ist
+            link.click()
+        except Exception as e:
+            print(f"Fehler beim Klicken auf Link {i+1}: {e}")
+            driver.execute_script("arguments[0].scrollIntoView(true);", link)
+            time.sleep(1)
+            link.click()
+
+        # Warte, bis die Seite mit dem XML-Download-Link geladen ist
+        try:
+            xml_link = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.LINK_TEXT, 'Als XML-File exportieren'))
+            )
+            xml_url = xml_link.get_attribute('href')
+
+            # Herunterladen des XML-Files (automatischer Download in den angegebenen Ordner)
+            driver.get(xml_url)
+            print(f"XML-Datei aus URL {xml_url} wird heruntergeladen...")
+
+        except Exception as e:
+            print(f"Konnte XML-Link nicht finden: {e}")
+
+        # Warte auf den "Zurück zur Übersicht"-Button und klicke ihn an
+        print("Kehre zur Übersicht zurück")
+        zurueck_button = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'a#back-to-pub-list.navigation-link'))
+        )
+        zurueck_button.click()
+
+finally:
+    # Schließe den Browser, wenn alles abgeschlossen ist
+    driver.quit()

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.22/BP-BE10-export.xsd">
+<meta>
+  <id>d2bdecef-00fb-4c2e-af8c-ba1fd29e00bf</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>3a4ce999-23f9-11eb-aadb-0050569de354</id>
+    <displayName>Einwohnergemeinde Bolligen - Bauverwaltung</displayName>
+    <street>Hühnerbühlstrasse</street>
+    <streetNumber>3</streetNumber>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>352</municipalityId>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005817</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-10-16</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Im Gässlisacher 30, 3065 Bolligen</de>
+    <en>Bauprojekt: Im Gässlisacher 30, Bolligen</en>
+    <it>Bauprojekt: Im Gässlisacher 30, Bolligen</it>
+    <fr>Demande de permis de construire: Im Gässlisacher 30, 3065 Bolligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Urs und Sabine</prename>
+          <name>Krättli</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Im  Gässlisacher</street>
+            <houseNumber>30</houseNumber>
+            <swissZipCode>3065</swissZipCode>
+            <town>Bolligen</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>true</noUID>
+        <company>
+          <name>Walther Energieplanung GmbH</name>
+          <customAddress>Postfach
+3176 Neuenegg</customAddress>
+          <legalForm>0101</legalForm>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Ersatz Ölheizung durch aussenaufgestellte Luft/Wasser-Wärmepumpe</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Im Gässlisacher</street>
+      <houseNumber>30</houseNumber>
+      <swissZipCode>3065</swissZipCode>
+      <town>Bolligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle Nr. 4405, Koordinaten: 2’604’727 / 1’204’011</locationCoordinate>
+  <useZoneSuperstructureRegulations>Landwirtschaftszone</useZoneSuperstructureRegulations>
+  <protectedAreaObject>Keine</protectedAreaObject>
+  <zoneProtectionEaux>&lt;p>übriger Bereich&lt;/p></zoneProtectionEaux>
+  <exemptions>Bauen ausserhalb der Bauzone, Art. 24 ff RPG</exemptions>
+  <locationCirculationOffice>Bauverwaltung Bolligen
+Hühnerbühlstrasse 3
+3065 Bolligen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Es wird auf die aufgestellten Profile und die Gesuchsakten verwiesen.&lt;br/>&lt;br/>&lt;br/>Vom 17. Oktober 2024 bis 15. November 2024 können die Baugesuchunterlagen elektronisch via eBau eingesehen werden: (&lt;a href="https://www.portal.ebau.apps.be.ch/public-instances/204542" target="">https://www.portal.ebau.apps.be.ch/public-instances/204542&lt;/a>). Zudem liegen die Auflageakten bei der Bauverwaltung Bolligen während den Öffnungszeiten auf.&lt;br/>&lt;br/>&lt;br/>Einsprachen und Rechtsverwahrungen sowie Lastenausgleichsbegehren sind schriftlich und begründet innerhalb der Auflagefrist im Doppel bei der Bauverwaltung Bolligen, Hühnerbühlstr. 3, 3065 Bolligen einzureichen.&lt;br/>&lt;br/>&lt;br/>Lastenausgleichsansprüche, die nicht innerhalb der Auflage- und Einsprachefrist angemeldet werden, verwirken (Art. 31 Abs. 4 Bst. a BauG).&lt;br/>&lt;br/>&lt;br/>Bei Kollektiveinsprachen oder vervielfältigten und weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten (Art. 35b BauG).&lt;br/>&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-11-15</entryDeadline>
+  <registrationOffice>Bauverwaltung Bolligen
+Hühnerbühlstrasse 3
+3065 Bolligen</registrationOffice>
+</content>
+</BP-BE10:publication>

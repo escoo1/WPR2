@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.20/AM-DA50-export.xsd">
+<meta>
+  <id>d156415a-d4d8-44c3-b49c-2244c8109f8a</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000000918</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-04-10</publicationDate>
+  <expirationDate>2025-04-10</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Installation neugekühlte Prozessräume und Split Kühlgeräte, Ostermundigen</de>
+    <en>AM-DA50-0000000918</en>
+    <it>AM-DA50-0000000918</it>
+    <fr>– Installation neugekühlte Prozessräume und Split Kühlgeräte</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <regOfficeSignature>
+    <img>KO_363</img>
+  </regOfficeSignature>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <valueText>
+          <term>
+            <de>Installation neugekühlte Prozessräume und Split Kühlgeräte</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>buildingContractor</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Bauherrschaft</de>
+        </term>
+        <mandatoryIn>true</mandatoryIn>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>BKW Energie AG</name>
+              <customAddress>Markus Zurflüh
+Viktoriaplatz 2
+3013 Bern</customAddress>
+            </company>
+            <typedText>BKW Enerige AG</typedText>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectFramer</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Projektverfasser</de>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>false</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <uid>CHE-113.709.479</uid>
+              <name>Marcel Rieben Ingenieure AG</name>
+              <address>
+                <swissZipCode>3097</swissZipCode>
+                <street>Waldeggstrasse</street>
+                <houseNumber>41</houseNumber>
+                <town>Liebefeld</town>
+              </address>
+              <additionalAddress>
+                <swissZipCode>3097</swissZipCode>
+                <street>Waldeggstrasse</street>
+                <houseNumber>41</houseNumber>
+                <town>Liebefeld</town>
+              </additionalAddress>
+              <canton>BE</canton>
+              <status>ACTIVE</status>
+              <uidServiceType>COMPANY</uidServiceType>
+              <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+              <uidOrganisationId>113709479</uidOrganisationId>
+              <uidRegPublicStatus>true</uidRegPublicStatus>
+              <legalForm>0106</legalForm>
+            </company>
+            <typedText>Marcel Rieben Ingenieure AG</typedText>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>landowner</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Grundeigentümer</de>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0103</legalForm>
+              <address/>
+              <name>BKW Energie AG</name>
+              <customAddress>Markus Zurflüh
+Viktoriaplatz 2
+3013 Bern</customAddress>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectAddress</key>
+        <valueType>address</valueType>
+        <term>
+          <de>Adresse des Bauprojekts</de>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <address>
+          <street>Obere Zollgasse</street>
+          <houseNumber>74</houseNumber>
+          <swissZipCode>3072</swissZipCode>
+          <town>Ostermundigen</town>
+        </address>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>parcel</key>
+        <valueType>textNeutral</valueType>
+        <term>
+          <de>Parzelle</de>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueTextNeutral>1491</valueTextNeutral>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>zone</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Zone</de>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Gewerbezone b</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;p>&lt;/p>&lt;p>Es wird auf die Gesuchsakten verwiesen. Diese liegen bei der Abteilung Hochbau während den Büroöffnungszeiten auf oder sind online einsehbar.&lt;/p>&lt;p>Allfällige Einsprachen und Rechtsverwahrungen sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreten.&lt;/p>&lt;p>&lt;/p></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Gemeinde Ostermundigen - Hochbau&lt;br/>Bernstrasse 65D &lt;br/>3072 Ostermundigen&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>date</selectType>
+        <term>
+          <de>Frist</de>
+        </term>
+        <date>2024-05-10</date>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

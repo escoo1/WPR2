@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.22/BP-BE10-export.xsd">
+<meta>
+  <id>3e1693d2-35a8-4d95-ac79-eedc9120da05</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>3f185725-1d8f-11ea-b29f-0050569de354</id>
+    <displayName>Kanton Bern - RSTA - Bern-Mittelland</displayName>
+    <street>Kreditoren 4540, Freiburgstrasse</street>
+    <streetNumber>453</streetNumber>
+    <swissZipCode>3018</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005754</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-10-02</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Bernstrasse, Bergackerstrasse, 3066 Stettlen</de>
+    <en>Bauprojekt: Bernstrasse, Bergackerstrasse, Stettlen</en>
+    <it>Bauprojekt: Bernstrasse, Bergackerstrasse, Stettlen</it>
+    <fr>Demande de permis de construire: Bernstrasse, Bergackerstrasse, 3066 Stettlen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3066</swissZipCode>
+    <town>Stettlen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>company</selectType>
+      <multi>
+        <companies>
+          <noUID>false</noUID>
+          <company>
+            <name>Wärme Mittelland AG</name>
+            <uid>CHE-269.424.948</uid>
+            <uidOrganisationId>269424948</uidOrganisationId>
+            <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+            <legalForm>0106</legalForm>
+            <address>
+              <street>Westbahnhofstrasse</street>
+              <houseNumber>3</houseNumber>
+              <swissZipCode>4500</swissZipCode>
+              <town>Solothurn</town>
+            </address>
+          </company>
+        </companies>
+      </multi>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>false</noUID>
+        <company>
+          <name>BSB + Partner Ingenieure und Planer AG</name>
+          <uid>CHE-112.111.606</uid>
+          <uidOrganisationId>112111606</uidOrganisationId>
+          <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+          <legalForm>0106</legalForm>
+          <address>
+            <street>Wengisteinstrasse</street>
+            <houseNumber>1</houseNumber>
+            <swissZipCode>4500</swissZipCode>
+            <town>Solothurn</town>
+          </address>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Erweiterung des Fernwärmenetzes, vereinzelte Verlegungen von bestehenden Werkleitungen. Etappe vom Quartier "im Baumgarten" in die Bergackerstrasse und zum Flurweg. 
+_______________________________________________________
+Standort:</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Bernstrasse, Bergackerstrasse</street>
+      <swissZipCode>3066</swissZipCode>
+      <town>Stettlen</town>
+    </address>
+  </projectLocation>
+  <additionalLegalRemedy>&lt;p>Parzellen-Nrn. 272, 304, 308, 312, 700, 806, 850, Zone: Wohn- und Gewerbezone WG3, Zone für öffentliche Nutzung, UeO Höhenrad, ZPP 2 Höhenrad, Landwirtschaftszone, Koordinaten: 2’606’433 / 1’200’789&lt;br/>&lt;/p>&lt;p>Inventar: In Baugruppe, Ortsbildschutzgebiet&lt;/p>&lt;p>Gewässerschutzbereich üB, Aᵤ&lt;/p>&lt;p>Ausnahmen:&lt;a>&lt;/a>&lt;/p>&lt;ul>&lt;li>Bauen ausserhalb der Bauzone (Art. 24 RPG)&lt;/li>&lt;li>Bauen im Strassenabstand (Art. 81 Abs. 1 SG)&lt;/li>&lt;/ul>&lt;p>Auflage- und Einsprachefrist: 1. November 2024&lt;/p>&lt;p>Auflagestelle: Gemeinde Stettlen, Bernstrasse 116, 3066 Stettlen&lt;/p>&lt;p>Elektronischer Zugriff: https://www.portal.ebau.apps.be.ch/public-instances?municipality=20904;&lt;br/> eBau Nummer: 2024-15462&lt;/p>&lt;p>Es wird auf die Gesuchsakten verwiesen.&lt;/p>&lt;p>Einsprachen und Rechtsverwahrungen sowie Lastenausgleichsbegehren sind schriftlich und begründet im Doppel beim Regierungsstatthalteramt Bern-Mittelland, Poststrasse 25, 3071 Ostermundigen einzureichen.&lt;/p>&lt;p>Lastenausgleichsansprüche, die nicht innerhalb der Auflage- und Einsprachefrist angemeldet werden, verwirken (Art. 31 Abs. 4 BauG).&lt;/p>&lt;p>Bei Kollektiveinsprachen oder vervielfältigten und weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten (Art. 35b BauG).&lt;/p>&lt;p>Verfügungen und Entscheide können im Amtsanzeiger oder im Amtsblatt veröffentlicht werden, wenn die Postzustellung wegen der grossen Zahl der eingelangten Einsprachen mit unverhältnismässigem Aufwand verbunden wäre (Art. 35d BauG).&lt;/p>&lt;p>Regierungsstatthalteramt Bern-Mittelland&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+</content>
+</BP-BE10:publication>

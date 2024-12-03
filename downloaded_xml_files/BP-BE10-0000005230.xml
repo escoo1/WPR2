@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.21/BP-BE10-export.xsd">
+<meta>
+  <id>ae0d69ac-f5ba-42da-9741-cc0b2353516a</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>31377f62-b065-11ee-8355-045056009042</id>
+    <displayName>Einwohnergemeinde Ittigen - Bauinspektorat</displayName>
+    <street>Rain</street>
+    <streetNumber>7</streetNumber>
+    <swissZipCode>3063</swissZipCode>
+    <town>Ittigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>362</municipalityId>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005230</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-05-15</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Ey 15, 3063 Ittigen</de>
+    <en>Bauprojekt: Ey 15, Ittigen</en>
+    <it>Bauprojekt: Ey 15, Ittigen</it>
+    <fr>Demande de permis de construire: Ey 15, 3063 Ittigen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3063</swissZipCode>
+    <town>Ittigen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>company</selectType>
+      <multi>
+        <companies>
+          <noUID>true</noUID>
+          <company>
+            <name>Touring Club Schweiz, Sektion Bern</name>
+            <customAddress>Thunstrasse 61, 3006 Bern</customAddress>
+            <country>
+              <name>
+                <de>Schweiz</de>
+                <fr>Suisse</fr>
+                <it>Svizzera</it>
+                <en>Switzerland</en>
+              </name>
+              <isoCode>CH</isoCode>
+            </country>
+            <legalForm>0109</legalForm>
+          </company>
+        </companies>
+      </multi>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+    <buildingContractor>
+      <legalEntity>
+        <multi>
+          <companies>
+            <noUID>false</noUID>
+            <company>
+              <name>Swiss Towers AG</name>
+              <uid>CHE-239.486.117</uid>
+              <uidOrganisationId>239486117</uidOrganisationId>
+              <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+              <legalForm>0106</legalForm>
+              <address>
+                <street>Thurgauerstrasse</street>
+                <houseNumber>136</houseNumber>
+                <swissZipCode>8152</swissZipCode>
+                <town>Glattpark (Opfikon)</town>
+              </address>
+            </company>
+          </companies>
+        </multi>
+      </legalEntity>
+    </buildingContractor>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>false</noUID>
+        <company>
+          <name>Rykart Architekten AG</name>
+          <uid>CHE-113.957.385</uid>
+          <uidOrganisationId>113957385</uidOrganisationId>
+          <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+          <legalForm>0106</legalForm>
+          <address>
+            <street>Könizstrasse</street>
+            <houseNumber>161</houseNumber>
+            <swissZipCode>3097</swissZipCode>
+            <town>Liebefeld</town>
+          </address>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Sanierung technisches Zentrum: Erneuerung Fenster und Türen, Fenstereinbau in der Westfassade, Ersatz Eingangsbereich mittels Schiebetüre und Windfang, Einbau Senkrechtlift, Erstellen Velounterstand mit Ladestation und Aufstellen Reklametafel
+
+
+Projektänderung: Gesuch um Erlass aus dem Schutzstatus "erhaltenswert" des Bauinventars des Kantons Bern</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Ey</street>
+      <houseNumber>15</houseNumber>
+      <swissZipCode>3063</swissZipCode>
+      <town>Ittigen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle Nr. 944 / BR 6083</locationCoordinate>
+  <useZoneSuperstructureRegulations>Arbeitszone A4</useZoneSuperstructureRegulations>
+  <protectedAreaObject>Bauinventar: erhaltenswertes Gebäude</protectedAreaObject>
+  <zoneProtectionEaux>&lt;p>Gewässerschutzbereich üB&lt;br/>&lt;/p></zoneProtectionEaux>
+  <exemptions>Keine</exemptions>
+  <locationCirculationOffice>Gemeinde Ittigen, Abteilung Bau, Rain 7, 3063 Ittigen 
+sowie unter https://www.portal.ebau.apps.be.ch/public-instances?municipality=20660</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Einsprachestelle: Gemeinde Ittigen, Abteilung Bau, Rain 7, 3063 Ittigen&lt;/p>&lt;p>Es wird auf die aufgelegten Gesuchsakten verwiesen. Zusätzlich können die Unterlagen im elektronischen Baubewilligungsverfahren eBau unter genanntem Link mit einem BE&amp;#2;-Login eingesehen werden. Einsprachen und Rechtsverwahrungen sind schriftlich und begründet im Doppel innerhalb der Auflagefrist einzureichen, ebenfalls allfällige Begehren um Lastenausgleich. Lastenausgleichsansprüche, die der Gemeindebehörde innert der Einsprachefrist nicht gemeldet werden, verwirken (Art. 30 und 31 BauG). Kollektiveinsprachen und vervielfältigte Einzeleinsprachen sind nur rechtsgültig, wenn Sie angeben, wer die Einsprachegruppe rechtsverbindlich zu vertreten befugt ist (Art. 35b BauG).&lt;br/>&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-06-14</entryDeadline>
+  <registrationOffice>Einwohnergemeinde Ittigen - Bauinspektorat
+Rain 7
+3063 Ittigen</registrationOffice>
+</content>
+</BP-BE10:publication>

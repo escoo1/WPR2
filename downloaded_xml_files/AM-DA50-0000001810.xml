@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.22/AM-DA50-export.xsd">
+<meta>
+  <id>690ccbf3-32e5-4013-b497-87a45ab87a19</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001810</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-11-15</publicationDate>
+  <expirationDate>2025-11-15</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Ausbau Dachgeschoss und Einbau von zwei neuen Lukarnen, Ostermundigen</de>
+    <en>AM-DA50-0000001810</en>
+    <it>AM-DA50-0000001810</it>
+    <fr>Demande d'autorisation de construire – Ausbau Dachgeschoss und Einbau von zwei neuen Lukarnen, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <regOfficeSignature>
+    <img>KO_363</img>
+  </regOfficeSignature>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <valueText>
+          <term>
+            <de>Ausbau Dachgeschoss und Einbau von zwei neuen Lukarnen</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>buildingContractor</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Bauherrschaft</de>
+          <fr>Maître d'ouvrage</fr>
+        </term>
+        <mandatoryIn>true</mandatoryIn>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>naturalPerson</selectType>
+          <naturalPerson>
+            <residence>
+              <selectType>switzerland</selectType>
+            </residence>
+            <addressSwitzerland>
+              <street>Steingrübliweg</street>
+              <houseNumber>15</houseNumber>
+              <swissZipCode>3072</swissZipCode>
+              <town>Ostermundigen</town>
+            </addressSwitzerland>
+            <sex>0</sex>
+            <firstName>Sarah und Valerio</firstName>
+            <officialName>Di Sauro</officialName>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectFramer</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Projektverfasser</de>
+          <fr>Auteur du projet</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>true</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <legalForm>0101</legalForm>
+              <address/>
+              <name>Petra Bieri BAU Ästhetik</name>
+              <customAddress>Blattenstett 340
+3766 Boltigen</customAddress>
+              <country>
+                <name>
+                  <de>Schweiz</de>
+                  <fr>Suisse</fr>
+                  <it>Svizzera</it>
+                  <en>Switzerland</en>
+                </name>
+                <isoCode>CH</isoCode>
+              </country>
+            </company>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>landowner</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Grundeigentümer</de>
+          <fr>Propriétaire foncier</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>naturalPerson</selectType>
+          <naturalPerson>
+            <residence>
+              <selectType>switzerland</selectType>
+            </residence>
+            <addressSwitzerland>
+              <street>Steingrübliweg</street>
+              <houseNumber>15</houseNumber>
+              <swissZipCode>3072</swissZipCode>
+              <town>Ostermundigen</town>
+            </addressSwitzerland>
+            <sex>0</sex>
+            <firstName>Sarah und Valerio</firstName>
+            <officialName>Di Sauro</officialName>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectAddress</key>
+        <valueType>address</valueType>
+        <term>
+          <de>Adresse des Bauprojekts</de>
+          <fr>Adresse du projet de construction</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <address>
+          <street>Steingrübliweg</street>
+          <houseNumber>15</houseNumber>
+          <swissZipCode>3072</swissZipCode>
+          <town>Ostermundigen</town>
+        </address>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>parcel</key>
+        <valueType>textNeutral</valueType>
+        <term>
+          <de>Parzelle</de>
+          <fr>Parcelle</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueTextNeutral>7095</valueTextNeutral>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>zone</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Zone</de>
+          <fr>Zone</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Wohnzone 2</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;p>Es wird auf die Gesuchsakten und die aufgestellten Profile verwiesen. Diese liegen bei der Abteilung Hochbau während den Büroöffnungszeiten auf oder sind online einsehbar.&lt;/p>&lt;p>Allfällige Einsprachen, Rechtsverwahrungen und Lastenausgleichsansprüche sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreten. &lt;/p>&lt;p>&lt;a>&lt;/a>&lt;a>&lt;/a>&lt;b>Begriff des Lastenausgleiches gemäss Art. 30 und 31 Baugesetz&lt;/b>&lt;br/> Nutzt ein Grundeigentümer einen Sondervorteil, der ihm durch eine Ausnahmebewilligung, eine Baulinie, eine Überbauungsordnung oder sonst wie in wesentlicher Abweichung von örtlichen Bauvorschriften zulasten eines Nachbarn eingeräumt ist, so hat er diese Nachbarn zu entschädigen, wenn die Beeinträchtigung erheblich ist. Lastenausgleichsansprüche, die innert der Einsprachefrist nicht angemeldet werden, verwirken.&lt;/p>&lt;div>&lt;div>&lt;/div>&lt;/div></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Gemeinde Ostermundigen - Hochbau&lt;br/>Bernstrasse 65D &lt;br/>3072 Ostermundigen&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>date</selectType>
+        <term>
+          <de>Frist</de>
+        </term>
+        <date>2024-12-16</date>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+        <fr>Ostermundigen</fr>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

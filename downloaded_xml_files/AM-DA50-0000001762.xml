@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AM-DA50:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AM-DA50="https://shab.ch/kabda/AM-DA50-export" xsi:schemaLocation="https://shab.ch/kabda/AM-DA50-export https://amtsblattportal.ch/api/v1/schemas/kabda/1.22/AM-DA50-export.xsd">
+<meta>
+  <id>291b86e6-d997-416d-ad3c-94fbdaac280a</id>
+  <rubric>AM-DA</rubric>
+  <subRubric>AM-DA50</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>48667d86-d29c-11ec-89c4-04505600900b</id>
+    <displayName>Gemeinde Ostermundigen - Hochbau</displayName>
+    <street>Bernstrasse</street>
+    <streetNumber>65D</streetNumber>
+    <swissZipCode>3072</swissZipCode>
+    <town>Ostermundigen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>363</municipalityId>
+  </registrationOffice>
+  <publicationNumber>AM-DA50-0000001762</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-10-30</publicationDate>
+  <expirationDate>2025-10-30</expirationDate>
+  <primaryTenantCode>kabda</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch – Nachträgliches Baugesuch; Umnutzung von Räumlichkeiten bzw. Flächenverschiebungen von rechtskräftig bewilligten Gewerbeflächen, Fassadenveränderungen Nordfassade, Anpassungen an der Umgebungsgestaltung, Ostermundigen</de>
+    <en>AM-DA50-0000001762</en>
+    <it>AM-DA50-0000001762</it>
+    <fr>Demande d'autorisation de construire – Nachträgliches Baugesuch; Umnutzung von Räumlichkeiten bzw. Flächenverschiebungen von rechtskräftig bewilligten Gewerbeflächen, Fassadenveränderungen Nordfassade, Anpassungen an der Umgebungsgestaltung, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <controls>
+    <translation>false</translation>
+    <apiImport>false</apiImport>
+  </controls>
+  <regOfficeSignature>
+    <img>KO_363</img>
+  </regOfficeSignature>
+  <action>
+    <key>notice</key>
+  </action>
+  <businessCase>
+    <key>constructionProject</key>
+    <primary>
+      <element>
+        <key>constructionProjectTitle</key>
+        <valueType>text</valueType>
+        <valueText>
+          <term>
+            <de>Nachträgliches Baugesuch; Umnutzung von Räumlichkeiten bzw. Flächenverschiebungen von rechtskräftig bewilligten Gewerbeflächen, Fassadenveränderungen Nordfassade, Anpassungen an der Umgebungsgestaltung</de>
+          </term>
+        </valueText>
+      </element>
+    </primary>
+    <secondary>
+      <element>
+        <key>projectAddress</key>
+        <valueType>address</valueType>
+        <term>
+          <de>Adresse des Bauprojekts</de>
+          <fr>Adresse du projet de construction</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <address>
+          <street>Untere Zollgasse</street>
+          <houseNumber>41</houseNumber>
+          <swissZipCode>3072</swissZipCode>
+          <town>Ostermundigen</town>
+        </address>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>parcel</key>
+        <valueType>textNeutral</valueType>
+        <term>
+          <de>Parzelle</de>
+          <fr>Parcelle</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <valueTextNeutral>1058</valueTextNeutral>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>projectFramer</key>
+        <valueType>naturalLegalPerson</valueType>
+        <term>
+          <de>Projektverfasser</de>
+          <fr>Auteur du projet</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText/>
+        <subject>
+          <selectType>legalPerson</selectType>
+          <legalPerson>
+            <noUID>false</noUID>
+            <currentLanguage>de</currentLanguage>
+            <company>
+              <uid>CHE-395.264.674</uid>
+              <name>NAAD Architektur GmbH</name>
+              <address>
+                <swissZipCode>3360</swissZipCode>
+                <street>Farnsbergstrasse</street>
+                <houseNumber>11a</houseNumber>
+                <town>Herzogenbuchsee</town>
+              </address>
+              <additionalAddress>
+                <swissZipCode>3360</swissZipCode>
+                <street>Farnsbergstrasse</street>
+                <houseNumber>11a</houseNumber>
+                <town>Herzogenbuchsee</town>
+              </additionalAddress>
+              <canton>BE</canton>
+              <status>ACTIVE</status>
+              <uidServiceType>COMPANY</uidServiceType>
+              <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+              <uidOrganisationId>395264674</uidOrganisationId>
+              <uidRegPublicStatus>true</uidRegPublicStatus>
+              <legalForm>0107</legalForm>
+            </company>
+            <typedText>NAAD</typedText>
+          </legalPerson>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>zone</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Zone</de>
+          <fr>Zone</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <customTerm>false</customTerm>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Landwirtschaftszone</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+      </element>
+    </secondary>
+    <secondary>
+      <element>
+        <key>exceptions</key>
+        <valueType>text</valueType>
+        <term>
+          <de>Ausnahmen</de>
+          <fr>Dérogations</fr>
+        </term>
+        <delimiterTitle> – </delimiterTitle>
+        <enumeration/>
+        <valueText>
+          <term>
+            <de>Bauen ausserhalb der Bauzone (Art. 24 ff RPG)</de>
+          </term>
+        </valueText>
+        <subject>
+          <naturalPerson>
+            <residence/>
+          </naturalPerson>
+        </subject>
+        <customTerm>false</customTerm>
+      </element>
+    </secondary>
+  </businessCase>
+  <reaction>
+    <element>
+      <legalRemedy>
+        <de>&lt;p>&lt;b>Auflage- und Einsprachefrist: bis und mit 29. November 2024&lt;/b>&lt;/p>&lt;p>Es wird auf die Gesuchsakten verwiesen. Diese liegen bei der Abteilung Hochbau während den Büroöffnungszeiten auf.&lt;/p>&lt;p>Allfällige Einsprachen, Rechtsverwahrungen und Lastenausgleichsansprüche sind schriftlich, im Doppel, und begründet innerhalb der Einsprachefrist einzureichen. Bei Kollektiveinsprachen und vervielfältigten oder weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprachegruppe rechtsverbindlich zu vertreten.&lt;/p>&lt;p>&lt;b>Begriff des Lastenausgleiches gemäss Art. 30 und 31 Baugesetz&lt;/b> &lt;/p>&lt;p>Nutzt ein Grundeigentümer einen Sondervorteil, der ihm durch eine Ausnahmebewilligung, eine Baulinie, eine Überbauungsordnung oder sonst wie in wesentlicher Abweichung von örtlichen Bauvorschriften zulasten eines Nachbarn eingeräumt ist, so hat er diesen Nachbarn zu entschädigen, wenn die Beeinträchtigung erheblich ist. Lastenausgleichsansprüche, die innert der Einsprachefrist nicht angemeldet werden, verwirken.&lt;/p>&lt;div>&lt;div>&lt;/div>&lt;/div></de>
+      </legalRemedy>
+      <contact>
+        <de>&lt;div>&lt;div>Gemeinde Ostermundigen - Hochbau&lt;br/>Bernstrasse 65D &lt;br/>3072 Ostermundigen&lt;/div>&lt;/div></de>
+      </contact>
+      <deadline>
+        <selectType>date</selectType>
+        <term>
+          <de>Frist</de>
+        </term>
+        <date>2024-11-29</date>
+      </deadline>
+    </element>
+  </reaction>
+  <localization>
+    <municipalityId>
+      <key>363</key>
+      <term>
+        <de>Ostermundigen</de>
+        <fr>Ostermundigen</fr>
+      </term>
+    </municipalityId>
+  </localization>
+</content>
+</AM-DA50:publication>

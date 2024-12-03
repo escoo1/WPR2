@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.20/BP-BE10-export.xsd">
+<meta>
+  <id>a3935569-1268-45cc-b8ae-91e4a003353f</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>3f185725-1d8f-11ea-b29f-0050569de354</id>
+    <displayName>Kanton Bern - RSTA - Bern-Mittelland</displayName>
+    <street>Kreditoren 4540, Freiburgstrasse</street>
+    <streetNumber>453</streetNumber>
+    <swissZipCode>3018</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005163</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-05-01</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Grossholz, 3073 Gümligen</de>
+    <en>Bauprojekt: Grossholz, Gümligen</en>
+    <it>Bauprojekt: Grossholz, Gümligen</it>
+    <fr>Demande de permis de construire: Grossholz, 3073 Gümligen</fr>
+  </title>
+</meta>
+<content>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>company</selectType>
+      <multi>
+        <companies>
+          <noUID>true</noUID>
+          <company>
+            <name>Gemeinde Muri bei Bern</name>
+            <customAddress>Bahnhofstrasse 4
+3073 Gümligen</customAddress>
+            <country>
+              <name>
+                <de>Schweiz</de>
+                <fr>Suisse</fr>
+                <it>Svizzera</it>
+                <en>Switzerland</en>
+              </name>
+              <isoCode>CH</isoCode>
+            </country>
+            <legalForm>0223</legalForm>
+          </company>
+        </companies>
+      </multi>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>true</noUID>
+        <company>
+          <name>Büro Kappeler</name>
+          <customAddress>Dunatstrasse 4
+3006 Bern</customAddress>
+          <country>
+            <name>
+              <de>Schweiz</de>
+              <fr>Suisse</fr>
+              <it>Svizzera</it>
+              <en>Switzerland</en>
+            </name>
+            <isoCode>CH</isoCode>
+          </country>
+          <legalForm>0101</legalForm>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <informationMunicipality>
+    <swissZipCode>3073</swissZipCode>
+    <town>Gümligen</town>
+  </informationMunicipality>
+  <projectDescription>Wiederherstellung eines Amphibienteichs
+__________________________
+Standort:
+Parzellen-Nr. 398, Zone: Grünzone, Wohnzone 2 Geschosse, Zone mit Planungspflicht "Beichi", Zone mit besonderer baurechtlicher Ordnung "Beichi / Grossholzweg", Koordinaten: 2’605’033 / 1’198’488</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Grossholz</street>
+      <swissZipCode>3073</swissZipCode>
+      <town>Gümligen</town>
+    </address>
+  </projectLocation>
+  <additionalLegalRemedy>&lt;p>Gewässerschutzbereich üB&lt;/p>&lt;p>Ausnahmen:&lt;a>&lt;/a>&lt;/p>&lt;ul>&lt;li>Bauen in Waldnähe (Art. 25 KWaG)&lt;/li>&lt;li>Eingriffe in Lebensräume geschützter Tiere (Art. 27 NSchV)&lt;/li>&lt;/ul>&lt;p>Auflage- und Einsprachefrist: 31. Mai 2024&lt;/p>&lt;p>Auflagestelle: Gemeinde Muri bei Bern, Thunstrasse 74, 3074 Muri b.Bern&lt;/p>&lt;p>Elektronischer Zugriff: https://www.portal.ebau.apps.be.ch/public-instances?municipality=20770;&lt;br/> eBau Nummer: 2024-7052&lt;/p>&lt;p>Es wird auf die Gesuchsakten verwiesen.&lt;/p>&lt;p>Einsprachen und Rechtsverwahrungen sowie Lastenausgleichsbegehren sind schriftlich und begründet im Doppel beim Regierungsstatthalteramt Bern-Mittelland, Poststrasse 25, 3071 Ostermundigen einzureichen.&lt;/p>&lt;p>Lastenausgleichsansprüche, die nicht innerhalb der Auflage- und Einsprachefrist angemeldet werden, verwirken (Art. 31 Abs. 4 BauG).&lt;/p>&lt;p>Bei Kollektiveinsprachen oder vervielfältigten und weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten (Art. 35b BauG).&lt;/p>&lt;p>Verfügungen und Entscheide können im Amtsanzeiger oder im Amtsblatt veröffentlicht werden, wenn die Postzustellung wegen der grossen Zahl der eingelangten Einsprachen mit unverhältnismässigem Aufwand verbunden wäre (Art. 35d BauG).&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+</content>
+</BP-BE10:publication>

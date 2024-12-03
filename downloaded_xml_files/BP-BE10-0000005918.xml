@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BP-BE10:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BP-BE10="https://shab.ch/kabbe/BP-BE10-export" xsi:schemaLocation="https://shab.ch/kabbe/BP-BE10-export https://amtsblattportal.ch/api/v1/schemas/kabbe/1.22/BP-BE10-export.xsd">
+<meta>
+  <id>47ee5abe-4633-4189-b090-c3b8a3be764f</id>
+  <rubric>BP-BE</rubric>
+  <subRubric>BP-BE10</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>3a4ce999-23f9-11eb-aadb-0050569de354</id>
+    <displayName>Einwohnergemeinde Bolligen - Bauverwaltung</displayName>
+    <street>Hühnerbühlstrasse</street>
+    <streetNumber>3</streetNumber>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+    <municipalityId>352</municipalityId>
+  </registrationOffice>
+  <publicationNumber>BP-BE10-0000005918</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-11-13</publicationDate>
+  <primaryTenantCode>kabbe</primaryTenantCode>
+  <cantons>BE</cantons>
+  <title>
+    <de>Baugesuch: Chällerhus/Geristein, 3065 Bolligen</de>
+    <en>Bauprojekt: Chällerhus/Geristein, Bolligen</en>
+    <it>Bauprojekt: Chällerhus/Geristein, Bolligen</it>
+    <fr>Demande de permis de construire: Chällerhus/Geristein, 3065 Bolligen</fr>
+  </title>
+</meta>
+<content>
+  <informationMunicipality>
+    <swissZipCode>3065</swissZipCode>
+    <town>Bolligen</town>
+  </informationMunicipality>
+  <buildingContractor>
+    <legalEntity>
+      <selectType>person</selectType>
+      <persons>
+        <person>
+          <prename>Bernhard</prename>
+          <name>Muhr</name>
+          <residence>
+            <selectType>switzerland</selectType>
+          </residence>
+          <addressSwitzerland>
+            <street>Kernstrasse</street>
+            <houseNumber>9</houseNumber>
+            <swissZipCode>3067</swissZipCode>
+            <town>Boll</town>
+          </addressSwitzerland>
+        </person>
+      </persons>
+    </legalEntity>
+  </buildingContractor>
+  <delegation>
+    <selectType>no</selectType>
+  </delegation>
+  <projectFramer>
+    <selectType>other</selectType>
+    <legalEntity>
+      <selectType>company</selectType>
+    </legalEntity>
+    <multi>
+      <companies>
+        <noUID>false</noUID>
+        <company>
+          <name>Weber + Brönnimann Bauingenieure AG</name>
+          <uid>CHE-108.127.857</uid>
+          <uidOrganisationId>108127857</uidOrganisationId>
+          <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+          <legalForm>0106</legalForm>
+          <address>
+            <street>Morillonstrasse</street>
+            <houseNumber>87</houseNumber>
+            <swissZipCode>3007</swissZipCode>
+            <town>Bern</town>
+          </address>
+        </company>
+      </companies>
+    </multi>
+  </projectFramer>
+  <projectDescription>Pumpendruckleitung Schmutzwasser für die Liegenschaften Geristei, Chällerhus Nr. 255, 259 und 260</projectDescription>
+  <projectLocation>
+    <address>
+      <street>Chällerhus/Geristein</street>
+      <swissZipCode>3065</swissZipCode>
+      <town>Bolligen</town>
+    </address>
+  </projectLocation>
+  <locationCoordinate>Parzelle Nr.: 415, 412, 603, 389, 413, 408, 613, 4209
+Koordinaten: 2’606’925 / 1’204’722; 2’606’761 / 1’204’908; 2’606’567 / 1’204’907; 2’606’950 / 1’204’943; 2’606’817 / 1’204’871; 2’606’227 / 1’204’260; 2’607’076 / 1’204’714; 2’606’841 / 1’204’842</locationCoordinate>
+  <useZoneSuperstructureRegulations>Landwirtschaftszone</useZoneSuperstructureRegulations>
+  <protectedAreaObject>Keine</protectedAreaObject>
+  <zoneMesureProtectionEaux>&lt;p>Au, üB&lt;/p></zoneMesureProtectionEaux>
+  <exemptions>- Bauen im Strassenabstand (Art. 80/81 SG)
+- Bauen ausserhalb Bauzone (Art. 24ff RPG)</exemptions>
+  <locationCirculationOffice>Bauverwaltung Bolligen 
+Hühnerbühlstrasse 3
+3065 Bolligen</locationCirculationOffice>
+  <additionalLegalRemedy>&lt;p>Es wird auf die Gesuchsakten verwiesen.&lt;/p>&lt;p>Vom 13. November 2024&lt;b> bis&lt;/b> 13. Dezember 2024&lt;b> &lt;/b>können die Baugesuchunterlagen elektronisch via eBau eingesehen werden: (https://www.portal.ebau.apps.be.ch/public-instances/184642). Zudem liegen die Auflageakten bei der Bauverwaltung Bolligen während den Öffnungszeiten&lt;b> &lt;/b>auf.&lt;/p>&lt;p>Einsprachen und Rechtsverwahrungen sowie Lastenausgleichsbegehren sind schriftlich und begründet innerhalb der Auflagefrist im Doppel bei der Bauverwaltung Bolligen, Hühnerbühlstr. 3, 3065 Bolligen einzureichen.&lt;/p>&lt;p>Lastenausgleichsansprüche, die nicht innerhalb der Auflage- und Einsprachefrist angemeldet werden, verwirken (Art. 31 Abs. 4 Bst. a BauG).&lt;/p>&lt;p>Bei Kollektiveinsprachen oder vervielfältigten und weitgehend identischen Einsprachen ist anzugeben, wer befugt ist, die Einsprechergruppe rechtsverbindlich zu vertreten (Art. 35b BauG).&lt;/p>&lt;p>&lt;b>&lt;/b>&lt;/p></additionalLegalRemedy>
+  <daysAfterPublication>30</daysAfterPublication>
+  <entryDeadline>2024-12-13</entryDeadline>
+  <registrationOffice>Bauverwaltung Bolligen 
+Hühnerbühlstrasse 3
+3065 Bolligen</registrationOffice>
+</content>
+</BP-BE10:publication>
